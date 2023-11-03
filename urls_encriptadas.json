@@ -1,0 +1,93 @@
+[
+  {
+    "name": "HBO",
+    "ico": "https://panelssh.com.ar/Img/newhbo.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzoDDIafhB6ag2O08/o6k75okbLqOpktuYTBbJvYCfI4waFTmmdGzzYPJTPGdFyAk0=",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "NJK2xrp/qQ/Hl+3W7wt7txScCYeL8ZJqVEhgNaZTa4+bxoN449uTZOznO7IHkWdK"
+  },
+  {
+    "name": "HBO 2",
+    "ico": "https://panelssh.com.ar/Img/hbo2.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxzloUSZPxIavRmPQyR2HzcN59PCPJUXDZtx32FaWNIcWYIcr83PJkkrzcWRJZ169U=",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "NJK2xrp/qQ/Hl+3W7wt7txScCYeL8ZJqVEhgNaZTa48gEUdtaGeiXjcJLwyaat7m"
+  },
+  {
+    "name": "HBO PLUS",
+    "ico": "https://panelssh.com.ar/Img/hboplus+.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxzloUSZPxIavRmPQyR2HzclEQ7k3ezN3f9ZshvsLFX8Lwj6EgE2+wylcZVFWMpefstbhcmvtghvVqe1voxWfgt",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "NJK2xrp/qQ/Hl+3W7wt7txScCYeL8ZJqVEhgNaZTa4/GiHOl3Cr7FqkI7ENLaCbv"
+  },
+  {
+    "name": "HBO MUNDI",
+    "ico": "https://panelssh.com.ar/Img/hbomundi2.png",
+    "uri": "6oAXqKvi+CThkdCmTZlazMJCZRqxqnwLu1Hshjuunr74Zv2SFIvvXKtTVJf14qXiUn0DthO7444BH2gI9bbNnGam3rWiTVOYZMxfSVda8XcljebRaL8SCX2VAB1GP7xg",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "NJK2xrp/qQ/Hl+3W7wt7txScCYeL8ZJqVEhgNaZTa4+FSD8bAm01I6/MDArL9K37"
+  },
+  {
+    "name": "HBO POP",
+    "ico": "https://panelssh.com.ar/Img/hbopop.png",
+    "uri": "6oAXqKvi+CThkdCmTZlazMJCZRqxqnwLu1Hshjuunr41Y61nxWgb1L0t58hWBB4we7QNKRAEn6qPyeKYlHJOebaG7YLlGb/aet6nov/UGV7oZe2emCxj8qpRU66f6cHE",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "NJK2xrp/qQ/Hl+3W7wt7txScCYeL8ZJqVEhgNaZTa4+8beFsUzH9kONo3ekrRSVy"
+  },
+  {
+    "name": "HBO XTREME",
+    "ico": "https://panelssh.com.ar/Img/hboxtreme.png",
+    "uri": "6oAXqKvi+CThkdCmTZlazMJCZRqxqnwLu1Hshjuunr74Zv2SFIvvXKtTVJf14qXit/FFnYT9Sc3R9WM9rTDJ+9rFcU+EfXB4T3ePbkUMdY/4vuc+iae3v8tjyQIec5jd",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "NJK2xrp/qQ/Hl+3W7wt7txScCYeL8ZJqVEhgNaZTa48u/ZZz6Mf6/dbnAFQV9VFL"
+  },
+  {
+    "name": "HBO FAMILY",
+    "ico": "https://panelssh.com.ar/Img/hbofamily.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxzloUSZPxIavRmPQyR2HzcSQvGPLXWP6NdPTDMXpTQOizZIcSyOOWKs1cHzmWy9WB1ZQZzcS1ZyFUWjBED+nEv",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "NJK2xrp/qQ/Hl+3W7wt7txScCYeL8ZJqVEhgNaZTa4+XkUgt8p0wGFiF+fijVo29m5xOj+p3jA33+l17dVfE5g=="
+  },
+  {
+    "name": "HBO SIGNATURE",
+    "ico": "https://panelssh.com.ar/Img/hbosignature.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxzloUSZPxIavRmPQyR2HzcqaDDfHIoo2gz4JEpue5/k7r0B3ifRZ1bFPtUm3Vo6guVSIn5KSAueDVe7+Tig++4",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "NJK2xrp/qQ/Hl+3W7wt7txScCYeL8ZJqVEhgNaZTa4/PVX0xNcqWp50iKY1AlwJLtPNOtYioYLZskIl9c4YARg=="
+  },
+  {
+    "name": "UNIVERSAL CINEMA",
+    "ico": "https://panelssh.com.ar/Img/universalcinema.png",
+    "uri": "vVjXkDQJFaL4oje6x/b+24bYFPUr7rhJU633BNJt1KHdjzSnhV8Ww7emuwhfGioMBd7zNlYnsA9AOZ/r2Y0W9g==",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "NJK2xrp/qQ/Hl+3W7wt7twBAFIe3lltYnNq3hcez4Yov1wA4zqRzz6tCI61U/u8qwYEWXhDFfXYfWxfNYvtbtQ=="
+  },
+  {
+    "name": "UNIVERSAL COMEDY",
+    "ico": "https://panelssh.com.ar/Img/universalcomedy.png",
+    "uri": "vVjXkDQJFaL4oje6x/b+24bYFPUr7rhJU633BNJt1KHzzQYjNq9C4F1ddEJTUpK19THxQ/VpDRbMTVvKagp5Tg==",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "NJK2xrp/qQ/Hl+3W7wt7twBAFIe3lltYnNq3hcez4Yq2TkACIJquWaUZmMyO4J7el8nhEppSZK6NXavubR0IBA=="
+  },
+  {
+    "name": "UNIVERSAL CRIME",
+    "ico": "https://panelssh.com.ar/Img/universalcrime.png",
+    "uri": "vVjXkDQJFaL4oje6x/b+24bYFPUr7rhJU633BNJt1KHvzsP7xbvz3BsEwa9QRV0sygGIcmOiMuFeM34fn1IxZg==",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "NJK2xrp/qQ/Hl+3W7wt7twBAFIe3lltYnNq3hcez4YrwtevtXgwlOrlmGPccJHRAwwXYpcrALcQqoQq2sWHQIQ=="
+  },
+  {
+    "name": "UNIVERSAL PREMIERE",
+    "ico": "https://panelssh.com.ar/Img/universalpremiere.png",
+    "uri": "vVjXkDQJFaL4oje6x/b+24bYFPUr7rhJU633BNJt1KGluPzDtoZimzEEmfzdYxTKCfbLukvVZAe+B0Lv3MFeOA==",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "NJK2xrp/qQ/Hl+3W7wt7twBAFIe3lltYnNq3hcez4YpsNQNI++SkvLkix7roCjjzvnrYXbEH08CWHJ5jYADkcg=="
+  },
+  {
+    "name": "UNIVERSAL REALITY",
+    "ico": "https://panelssh.com.ar/Img/universalreality.png",
+    "uri": "vVjXkDQJFaL4oje6x/b+24bYFPUr7rhJU633BNJt1KFTS9s2aHQHyKnFnmj0pNWJW8jgv6QjMQDzqe7A+XltOw==",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "NJK2xrp/qQ/Hl+3W7wt7twBAFIe3lltYnNq3hcez4YpzaurmFyXWDTU6bgJrvWtvECPrBPzXC8oYBgPYi/ZJiA=="
+  }
+]
