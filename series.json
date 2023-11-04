@@ -1,0 +1,118 @@
+[
+  {
+    "name": "SERIES",
+    "mode": true,
+    "lista": [
+      {
+        "name": "Sean eternos: Campeones de América",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kBlqr507IV9bDKHLEFBtEtTfCw3.jpg",
+        "temporada": [
+          {
+			"name": "CAP 1- Cuentas pendientes",
+			"ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tQmVJ2sTX4uNt0hYAJDDVXFtw0K.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMigWG2kyvUyQawZl/FER9S5kT5JLr3jPooJGIV4MI/k0Mf7DNij6lPdwETgB4bB9Rw==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "CAP 2- Un equipo, un Lider",
+			"ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bKHJTMuDgEfLnuiuVkq40jGRCDp.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMigWG2kyvUyQawZl/FER9S5kT5JLr3jPooJGIV4MI/k0w4uD1N5gzm7XP5P5glco3Q==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "CAP 3- A todo o nada",
+			"ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/qZ6AG27XxEqRzJoK7Pd1Mr17PlI.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMigWG2kyvUyQawZl/FER9S5kT5JLr3jPooJGIV4MI/k0bcb+dYF18cPtjqKII2KZbg==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  }
+        ]
+      },
+	  {
+        "name": "Loki - Temporada 1 y 2",
+        "ico": "https://image.tmdb.org/t/p/w342/5SMjq67GRddYlieCVz7hOQYvXLe.jpg",
+        "temporada": [
+          {
+			"name": "TEMP 1 CAP 1 - Un glorioso propósito",
+			"ico": "https://image.tmdb.org/t/p/w300/gxh0k3aADsYkt9tgkfm2kGn2qQj.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMn5E3VOrVrgYatoihKYgaHsOOu6uwtgSmzwU23WEoPJjx5SPXKZT+NR7vq6SFk5/SQ==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "TEMP 1 CAP 2 - La variante",
+			"ico": "https://image.tmdb.org/t/p/w300/gqpcfkdmSsm6xiX2EsLkwUvA8g8.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMn5E3VOrVrgYatoihKYgaHsOOu6uwtgSmzwU23WEoPJj06dFyyY+AMKb0aMIyBTgnQ==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "TEMP 1 CAP 3 - Lamentis",
+			"ico": "https://image.tmdb.org/t/p/w300/aTjfWml9Prd8cUB9cfk8yOAEh7v.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMn5E3VOrVrgYatoihKYgaHsOOu6uwtgSmzwU23WEoPJj58MsXzHbzSUHmho23XJ85g==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "TEMP 1 CAP 4 - El evento nexus",
+			"ico": "https://image.tmdb.org/t/p/w300/niIXLqEr98mnQuYuMuEvq9Y6OQa.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMn5E3VOrVrgYatoihKYgaHsOOu6uwtgSmzwU23WEoPJjUjkd3FhhrNp9Np7V9X2Aqw==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "TEMP 1 CAP 5 - Un viaje hacia el misterio",
+			"ico": "https://image.tmdb.org/t/p/w300/5fRAAO13URmteku8mb39V9YPJBb.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMn5E3VOrVrgYatoihKYgaHsOOu6uwtgSmzwU23WEoPJjJl6hEkjEpfkRS5eHQYDMMg==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "TEMP 1 CAP 6 - Eternamente Siempre",
+			"ico": "https://image.tmdb.org/t/p/w300/98hGgYbNFP8GnZhJzAar22bWIAT.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMn5E3VOrVrgYatoihKYgaHsOOu6uwtgSmzwU23WEoPJji66ZRFb9A1ffG0mNpC51uQ==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "TEMP 2 CAP 1 - Uroboros",
+			"ico": "https://image.tmdb.org/t/p/w300/d4S2xNIEb0DNUxi3L6p1SDxNiLR.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMn5E3VOrVrgYatoihKYgaHtL6V9AVX9Zma3M3zVA/7+r0tlJlX7iwiSLvltSkoFXsg==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "TEMP 2 CAP 2 - Quebrando a Brad",
+			"ico": "https://image.tmdb.org/t/p/w300/wFbZaHRtG7xLgUJINdX2t8LHzTU.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMn5E3VOrVrgYatoihKYgaHtL6V9AVX9Zma3M3zVA/7+reurskZz//Zz/1Hn7yc1MCw==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "TEMP 2 CAP 3 - 1893",
+			"ico": "https://image.tmdb.org/t/p/w300/pwAniwa715V556WQSmoJiOvTchW.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMn5E3VOrVrgYatoihKYgaHtL6V9AVX9Zma3M3zVA/7+rZ6QyE88gIyGJYlitE1QLQw==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "TEMP 2 CAP 4 - El corazón de la AVT",
+			"ico": "https://image.tmdb.org/t/p/w300/4BqPWUCsyaf8LCMEjduvdLaF78c.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMn5E3VOrVrgYatoihKYgaHtL6V9AVX9Zma3M3zVA/7+r+8DMCtWiCQVLD0CsGKo92Q==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "TEMP 2 CAP 5 - Ciencia/Ficción",
+			"ico": "https://image.tmdb.org/t/p/w300/taSr2kKU6QN0VKvpR1H5PE8dERJ.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMn5E3VOrVrgYatoihKYgaHtL6V9AVX9Zma3M3zVA/7+rcwCKk9reDlVxstkKChKwdw==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  }
+        ]
+      }
+    ]
+  }  
+]
