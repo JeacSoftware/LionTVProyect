@@ -3,6 +3,13 @@
         "name": "PELICULAS ESTRENOS",
         "mode": false,
         "lista": [
+		   {
+			"name": "El justiciero: Capítulo final (2023)",
+			"ico": "https://bajalogratis.com/wp-content/uploads/2023/11/El_justiciero_Capaitulo_final.jpg",
+			"uri": "YrhWVIy2QJe9/4udIN2k6P8INCfLN8zoJbeX7l5k9pcr1baF4joieJEjtImAoHO2ezHo65ytktemDORnBkQSag==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
 		  {
 			"name": "The FLash (2023)",
 			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x9Qc86JEyYkAKsdzjDpS5kbaAB7.jpg",
