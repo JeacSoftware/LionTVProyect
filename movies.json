@@ -11,30 +11,23 @@
 			"drm_license_url": ""
 		  },
 		  {
-			"name": "The FLash (2023)",
-			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x9Qc86JEyYkAKsdzjDpS5kbaAB7.jpg",
-			"uri": "RWDzuSlkD35V0Fynj78NxJ/2I1yiKyfnXfk2MA07bNeBZPRwOd6DJSvwxWzyIAoJ",
-			"drm_scheme": "",
-			"drm_license_url": ""
-		  },
-		  {
 			"name": "Tyler Rake 2 (2023)",
 			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jT0Eyfw0VXlnk8sMKfyFiKj8UsK.jpg",
-			"uri": "jUko0CPw1IzGcznkzpmErkXQPqOn5Wv35v5DUMxSLPRCDq/5kUyAbw64WtR5ODF9b0oyblhf2R6ubYvRdZsQNfo4yftpTes9r4TY+WpyIUFd/wrcLOFxYPjKK6d0asmbYGpf29Tj3121zPBb5Vpb9w==",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//kcBNqtXDTG3NVMu8/BjbNZpgdPxFrT+EH/CxtvxVv8R7MvfMRgE2JFO7tnSyIq7uGymQ8PyUnRVV+2N18xekSF2Vaqr9Hi02G2PAftrvLtRA==",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
 		  {
 			"name": "La sirenita (2023)",
 			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/goX6Pcb7fugl9ADfg3Ns1OnuIYY.jpg",
-			"uri": "jUko0CPw1IzGcznkzpmErkXQPqOn5Wv35v5DUMxSLPQ4tI42TEVN3UuM44+QRj9FAvELrsWgqMhTWA7UIcAkGC8jjq9A3jPhdkx9MapoMDU5DT/+2IXBJvnFkapABZMRVAsx1KogaFl+8dPf931lXg==",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQ3xWTVafNp8dSe6AaviGaiVwYxIjtz2MS0dxXFqiQR4WHmJgw+wdO+FLrvjuFNGDSyA0XJjfxsquqRyH24uuphg==",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
 		  {
 			"name": "Isósceles (2023)",
 			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zJarhodfImuUp2DiAlHO2y2ujkt.jpg",
-			"uri": "jUko0CPw1IzGcznkzpmErkXQPqOn5Wv35v5DUMxSLPQ4tI42TEVN3UuM44+QRj9FMTyas1JTUEwRJDczAhK4ZS9gRE1nDRRB2r5ltkyVpl6KTyXvixLE47Uofg851M8/08yqN2HApymxYMWKqo1ulA==",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQ6D6b/dQ89PbZwuOtby0BZXjI4jfsThYvcu6yY4KwuU2Aet8IQCp5IyH3jPz/PVWu4CJU/XA51X3R6W6e3Z01gg==",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
@@ -42,20 +35,6 @@
 			"name": "Muchas mas hormigas entre las piernas (2023)",
 			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9PuK45DWcRlp47v7hbOO0IZZSi6.jpg",
 			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQdsQ/vZnW3Cj5wehRM5/kwovCyBzlzBvrdMwmV4XSgD1xAP42BD+3qzAVMRhe9e38lHjpS5vq/0YIkdDHqXV5IA==",
-			"drm_scheme": "",
-			"drm_license_url": ""
-		  },
-		  {
-			"name": "Guardianes de la Galaxia: Volumen 3 (2023)",
-			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/voAxRv011XHK2qFBXmZKXPj2wWB.jpg",
-			"uri": "RWDzuSlkD35V0Fynj78NxG0NdYkXasOp/LoXi0+0JjMFcSUaXRtOLskup7UbIM5XojcZWVvc2xzKdrk0CmL2LA==",
-			"drm_scheme": "",
-			"drm_license_url": ""
-		  },
-		  {
-			"name": "Fast & Furious X (2023)",
-			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3P9QvWVN02Etn4kYGC702WVoXEb.jpg",
-			"uri": "RWDzuSlkD35V0Fynj78NxIvuBEeIPpndZzx3zZFtTepU0uH3MoyQFozh37z4k1IX",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
@@ -226,6 +205,13 @@
 			"uri": "YrhWVIy2QJe9/4udIN2k6CpQJPtNb/SpHQ37sII8/QrrAYfKQTBdyr4lYdG5DKd3",
 			"drm_scheme": "",
 			"drm_license_url": ""
+		  },
+		  {
+			"name": "La Princesa Cisne: Ha nacido un cuento de hadas (2023)",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rPHUSeqb2HI4JKe9xMawxeMZHAb.jpg",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQa7+cPgAEdvVYk6/KF5Tm05XW/2eJ+tuPfwTTDK/NS8Q4eFZGV+QSNhIClqoOIx2vfjtY2oVd12l+KyvcHHM3sg==",
+			"drm_scheme": "",
+			"drm_license_url": ""
 		  }
         ]
     },
@@ -233,13 +219,6 @@
         "name": "PELICULAS INFANTILES",
         "mode": false,
         "lista": [
-		  {
-			"name": "Trolls 2: Gira mundial (2020)",
-			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg",
-			"uri": "jUko0CPw1IzGcznkzpmErkXQPqOn5Wv35v5DUMxSLPQ4tI42TEVN3UuM44+QRj9FfklsqoV9ol2YGVRG1ljYlAYxV+wV3LhKIIYcldBZGSEqZzvIvkQ8Vco+UDAa1dPPvnvH3uT5+YYkzn0sfhB3mA==",
-			"drm_scheme": "",
-			"drm_license_url": ""
-		  },
 		  {
 			"name": "El niño y el tigre (2022)",
 			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7LfZhnN96Zs2xv8c0PeaExU1yw.jpg",
@@ -272,13 +251,6 @@
 			"name": "Los minions y sus amigos",
 			"ico": "http://tuvideo.tv/poster/w200/10291191664320653i.jpg",
 			"uri": "YrhWVIy2QJe9/4udIN2k6F2n/1+u9CvOppaY1elfyhSEffXGvuUbCQ/N9+eZ77bc",
-			"drm_scheme": "",
-			"drm_license_url": ""
-		  },
-		  {
-			"name": "Jujutsu kaisen",
-			"ico": "https://http2.mlstatic.com/D_NQ_NP_720934-MLA45569731603_042021-O.webp",
-			"uri": "YrhWVIy2QJe9/4udIN2k6P5LQSFnWq9nM28cE1UwS80YKZL+5697jUKWO41tjV/4qqVQ/jTZ4iea+7HGcU3BhA==",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
@@ -339,13 +311,6 @@
 			"drm_license_url": ""
 		  },
 		  {
-			"name": "Mulan",
-			"ico": "https://mx.web.img3.acsta.net/pictures/18/11/02/05/19/4834960.jpg",
-			"uri": "YrhWVIy2QJe9/4udIN2k6FD/IxaSVJFyCWt0VuSfCPgXcu6QEmj81cSb+LotQB04y/DLktjMdtI2P2wnkile7g==",
-			"drm_scheme": "",
-			"drm_license_url": ""
-		  },
-		  {
 			"name": "Ralph el demoledor",
 			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg",
 			"uri": "YrhWVIy2QJe9/4udIN2k6NxixjFm2q/NMCMjgWP7BUhF7RBahRcuaqtrX3wXFIMyUXXi2UdtpNWhSfG+hPZ1563ODMoGY2EBs9Gb/6EDse4=",
@@ -381,13 +346,6 @@
 			"drm_license_url": ""
 		  },
 		  {
-			"name": "Toy story",
-			"ico": "https://es.web.img3.acsta.net/pictures/14/03/17/10/20/509771.jpg",
-			"uri": "FMxWGf9mOAw/L0k6+/4Oh7LpLMPEcFXwwzC/pt37RdL+c9pFOm0/4zqHJlUDxwpzLQNHGA+5m0YHrKijReIoQdwwuQnqmFRM8UEXc/csxKc=",
-			"drm_scheme": "",
-			"drm_license_url": ""
-		  },
-		  {
 			"name": "Toy story 4",
 			"ico": "https://static.wikia.nocookie.net/disney/images/5/5c/Toy_Story_4_official_poster_%282%29.jpg/revision/latest?cb=20190627043631&path-prefix=es",
 			"uri": "FMxWGf9mOAw/L0k6+/4Oh/p3f2Hr0YCIvfUTDMQ3kz6FVfxIOme6SCPZMybYUDl36nLInIw6Fcr5wC/D9XAnxA==",
@@ -398,6 +356,34 @@
 			"name": "El principe de egipto",
 			"ico": "http://image.tmdb.org/t/p/w500/qKY3R88Tod1tlj4QfpudqKpXKC0.jpg",
 			"uri": "gUctX70TfIkEl0WjMKb8airw27J/eLI2dq1cYcuR9jhSR7/FsTHMdiBVDZOko9ekWwJFRIf7eENY3uZHDacgFiAFTPMUX/2zVgJw+XpQNXKjv/wRYnfM3OL9y3lv9hpt1jd5BfDi7UT6nYNrSctPDbjGlhptmNwr0RTHZiAEzjc=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Trolls 2: Gira mundial (2020)",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQD6oNtna7korWudHzw1iwJRyyr1zE/dHmRWmsKocBNFruq3G8AjWRk5+4Wz0npQP/LaBPlULFoZzmyuI4UJtH+g==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Hotel Transylvania 4: Transformanía (2022)",
+			"ico": "https://pics.filmaffinity.com/hotel_transylvania_transformania-483494855-mmed.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrDOsX0CPd5yAp2dTqMCVw7o=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Sing 2: ¡Ven y canta de nuevo! (2021)",
+			"ico": "https://mx.web.img3.acsta.net/c_310_420/pictures/21/12/22/19/52/0130930.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrKNdGyug/QrsrV4WmajCo1U=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Encanto (2021)",
+			"ico": "https://pics.filmaffinity.com/encanto-246546841-mmed.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrLs4D0xUZ8g1mg2VRoc/pG4=",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  }
@@ -413,6 +399,20 @@
 			"uri": "YrhWVIy2QJe9/4udIN2k6KCcnS1amrt6l0auI7FR2OXI1v4wrNNuQDcSfSnYYnFWhTgDM/3bDMKGGIs26a2E1Q==",
 			"drm_scheme": "",
 			"drm_license_url": ""
+		  },
+		  {
+			"name": "El Proyecto Adam (2022)",
+			"ico": "https://pics.filmaffinity.com/the_adam_project-982692706-mmed.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrGwPEAv8VtYld8L+smO4RHo=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Desesperada (2021)",
+			"ico": "https://pics.filmaffinity.com/the_desperate_hour-184114991-mmed.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrEm9T+wdw1xOBVwndC7QvNo=",
+			"drm_scheme": "",
+			"drm_license_url": ""
 		  }
         ]
     },
@@ -420,6 +420,13 @@
         "name": "PELICULAS COMEDIA",
         "mode": false,
         "lista": [
+		  {
+			"name": "Más Barato por Docena (2022)",
+			"ico": "https://media.filmelier.com/tit/5NMbmU/poster/mas-barato-por-docena__HzBbXU.jpeg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrLgHZd3JifLQKydS1iSMYWI=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
 		  {
 			"name": "SOCIEDAD DE HONOR",
 			"ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/nUyM9VBcIuGzACORtXEMD9tcgWv.jpg",
@@ -657,6 +664,20 @@
 			"uri": "FMxWGf9mOAw/L0k6+/4Ohzsbz56oJBQvR59y+SvKAPWK89kB/N+G4LaFMX1cw2S1dFiG4zpHXN7+/8Wgvacoi7gR7aAUgBrAA4Ztjwnjbkr/jvtxXUZg8a/FGvpElw56peo4bu5sW03BMmhTJRWhhsCXmj4PFQIzy3JdZOewfXU=",
 			"drm_scheme": "",
 			"drm_license_url": ""
+		  },
+		  {
+			"name": "Sexo, pudor y lágrimas (1999)",
+			"ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1j3TiCXSguHi3IGumXKpQymvUKH.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrGLsBefA6QIngtceR85g7ww=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Sexo, Pudor y Lágrimas 2 (2022)",
+			"ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgCA3cO2pM8UTPU3P81ZRbyp0VW.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrL/bS881j3g9pBAViHigA8w=",
+			"drm_scheme": "",
+			"drm_license_url": ""
 		  }
         ]
     },
@@ -665,16 +686,30 @@
         "mode": false,
         "lista": [
 		  {
-			"name": "Marte (The Martian) (2015)",
-			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jPvNTtQMtLJrEqPZF1FbMGmiHwu.jpg",
-			"uri": "jUko0CPw1IzGcznkzpmErkXQPqOn5Wv35v5DUMxSLPQ4tI42TEVN3UuM44+QRj9FZancecg5S6+ttdtUYhQe01VvIaejrEc6R6NEl0Y1wKnqTzT6bNsuFmedyZj486Q8WEhKJEBW9aBWlBGtXf8hIg==",
+			"name": "Dog: Un viaje salvaje (2022)",
+			"ico": "https://es.web.img3.acsta.net/c_310_420/pictures/22/03/03/18/15/3886284.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrIIJYbSw5AqNK6vVfz1zvrk=",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
 		  {
-			"name": "Autómata (2014)",
-			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bU9XAANR7WWqRRbXk2Oj5OF6km3.jpg",
-			"uri": "jUko0CPw1IzGcznkzpmErkXQPqOn5Wv35v5DUMxSLPQ4tI42TEVN3UuM44+QRj9FaOuTnNlaeGoU6h1FZEVUbXZvl9Qig3ZKHbKn5k7Tnb9dOupNdNejbyT65c27kfI6XIFAcianN1bbwPTAegpjTw==",
+			"name": "Aguas profundas (2022)",
+			"ico": "https://pics.filmaffinity.com/deep_water-790981437-mmed.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrE9qp/m0owGmiKHNLibvSE0=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Dos contra el hielo (2022)",
+			"ico": "https://mx.web.img2.acsta.net/c_310_420/pictures/22/01/14/11/11/1612615.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrBZ7dEPbEZilLXfHFDzy6jo=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Luz Negra (Blacklight) (2022)",
+			"ico": "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/357314/357314_173x256.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrJoIfdmfmMJh5uz9BDeswbI=",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
@@ -682,6 +717,20 @@
 			"name": "La carretera (The Road) (2009)",
 			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7mToUxySqVqQerBAXs84J0wkxsF.jpg",
 			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQcUwG+0SH1qwwVIYhjVq7H1LNhGKBXQj8+mublSvGsHulctplZNU/ZTCKnHmT572WCtollPGgunfQL9YWmo2oSA==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Marte (The Martian) (2015)",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jPvNTtQMtLJrEqPZF1FbMGmiHwu.jpg",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQt/nAlG2E2ScpSPAiqV8J2xRJdWjzmMgBoXSjfuYfHaC05mUGOCd68TV1tjsAZQIYOpWubywUZSOR52kDnE9JQA==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Autómata (2014)",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bU9XAANR7WWqRRbXk2Oj5OF6km3.jpg",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQJK2R4CKcwV4m3w3H+EHHY3yQpR7+4T9WUWBKCHuxxuSxg0GKgMx+nEPEV3S4yfLm4HmMtYLnqY3hEBCnmuZuXw==",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
@@ -705,6 +754,13 @@
 			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQKJZazLqTw4PMoEDf1ite1dC9wxV/4+rn9Y07KB8geA8YMTHwowdu39XRmg3BGQ8B/3ynIXa8U4AiTmn3msvs6g==",
 			"drm_scheme": "",
 			"drm_license_url": ""
+		  },
+		  {
+			"name": "La Casa Gucci (2021)",
+			"ico": "https://pics.filmaffinity.com/house_of_gucci-575878865-mmed.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrDGJhButlYlzIuFKOgi8eZc=",
+			"drm_scheme": "",
+			"drm_license_url": ""
 		  }
         ]
     },
@@ -713,6 +769,13 @@
         "mode": false,
         "lista": [
 		 {
+			"name": "RED (2010)",
+			"ico": "https://pics.filmaffinity.com/red-700937638-mmed.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrBVd9Wwze4lNGs+8ME+UxN4=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
 			"name": "BUSQUEDA IMPLACABLE 1 (2008)",
 			"ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2008/2/w1280/dTshd9hjQMWyRijWucqszKPrp5z.jpg",
 			"uri": "i2Q0C1Xj6ZiKyI1LZ7t6e4MPqpelf5NiS0CXQSk88fVHmc8EAGguiiS3muy7JpYDwcPyjIcQvdnNZWv6A8W05g==",
@@ -846,23 +909,9 @@
 			"drm_license_url": ""
 		  },
 		  {
-			"name": "GODZILLA REY DE LOS MONSTRUOS",
-			"ico": "https://images.justwatch.com/poster/140327527/s718/godzilla-rey-de-los-monstruos.%7Bformat%7D",
-			"uri": "FMxWGf9mOAw/L0k6+/4Oh1PocZ8VhAvEBWiM50ks3PNeA/CUvcEY/YTPe2iS4Bac",
-			"drm_scheme": "",
-			"drm_license_url": ""
-		  },
-		  {
 			"name": "ALIEN 1",
 			"ico": "https://static.wikia.nocookie.net/doblaje/images/2/2d/AliensI.jpg/revision/latest?cb=20210221184427&path-prefix=es",
 			"uri": "YrhWVIy2QJe9/4udIN2k6A8bmrrj29BExmndFrUB2AK1O+McZFMD+3yKY/cEUa0Agjk1cgywuHZo/WTATER5sw==",
-			"drm_scheme": "",
-			"drm_license_url": ""
-		  },
-		  {
-			"name": "ALIEN 2",
-			"ico": "https://2.bp.blogspot.com/-Kro3-ejli_c/UQ4xI3JFnGI/AAAAAAAAMPU/bDZt5GwJmMA/s1600/Cineshared.Com-Aliens-El-Regreso-Perreofull.Com_.jpg",
-			"uri": "YrhWVIy2QJe9/4udIN2k6A8bmrrj29BExmndFrUB2AK/FU6bOVXxU/xvFCeA9GC2WLmvvRwDp2hPyaOEawg81A==",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
@@ -874,13 +923,6 @@
 			"drm_license_url": ""
 		  },
 		  {
-			"name": "ALIEN 4",
-			"ico": "https://upload.wikimedia.org/wikipedia/en/7/70/Alien_Resurrection_poster.jpg",
-			"uri": "YrhWVIy2QJe9/4udIN2k6A8bmrrj29BExmndFrUB2ALBmrjSz8WeQQzr8sbsX52d3rbh9fbV2xRFHw1o+umNGA==",
-			"drm_scheme": "",
-			"drm_license_url": ""
-		  },
-		  {
 			"name": "ALIEN vs DEPREDADOR",
 			"ico": "https://image.tmdb.org/t/p/w500/ybdxGdgwiB4UhWPZ8am71szEOIF.jpg",
 			"uri": "YrhWVIy2QJe9/4udIN2k6A8bmrrj29BExmndFrUB2AJOGfe0r41XD7MuT2zRpp9KO9K14ARuX/tZHFsT3unMy+Kb8FhvMSLiJbSpf4xjyMs=",
@@ -888,58 +930,9 @@
 			"drm_license_url": ""
 		  },
 		  {
-			"name": "ALIEN vs DEPREDADOR 2",
-			"ico": "https://static.wikia.nocookie.net/doblaje/images/d/d3/AVP_2.jpg/revision/latest?cb=20210317005955&path-prefix=es",
-			"uri": "YrhWVIy2QJe9/4udIN2k6A8bmrrj29BExmndFrUB2AJOGfe0r41XD7MuT2zRpp9KEgYaNtR1ZMIinX0FOFnfANAXrqG2ezPhTkM1WNKJbts=",
-			"drm_scheme": "",
-			"drm_license_url": ""
-		  },
-		  {
-			"name": "ALIEN COVENANT",
-			"ico": "https://arm-film.com/wp-content/uploads/2017/06/Alien-Covenant.jpg",
-			"uri": "YrhWVIy2QJe9/4udIN2k6A8bmrrj29BExmndFrUB2AIyQ4JCpzg5IbfhXhbnVVpE2uRqHf0M8TrwSbbk9lKOLg==",
-			"drm_scheme": "",
-			"drm_license_url": ""
-		  },
-		  {
-			"name": "PREDATOR",
-			"ico": "https://m.media-amazon.com/images/I/A1zS4rSRsGL._RI_.jpg",
-			"uri": "YrhWVIy2QJe9/4udIN2k6A8bmrrj29BExmndFrUB2AKem6S3oKaY0JLBqM44VTQ+CcJjHSAIHuB32YvoneN6Bg==",
-			"drm_scheme": "",
-			"drm_license_url": ""
-		  },
-		  {
-			"name": "PROMETHEUS",
-			"ico": "http://www.cinefania.com/pics/1b/posters[7...]/71709.jpg",
-			"uri": "YrhWVIy2QJe9/4udIN2k6A8bmrrj29BExmndFrUB2AKkjCe//6m8tRozXMSdZTxqojhje6f9+w0gxwb36ohjAA==",
-			"drm_scheme": "",
-			"drm_license_url": ""
-		  },
-		  {
 			"name": "JHON WICK: UN BUEN DIA PARA MATAR",
 			"ico": "https://es.web.img3.acsta.net/pictures/14/10/01/14/18/135831.jpg",
 			"uri": "YrhWVIy2QJe9/4udIN2k6JczGgXYRpy5PqWxAY9yfrNT62Dc+EnxCbHNmskJRxJfp5cBm5OVNyJyM+1ZjQyxc08YteMKxMfLqCr199ibSZQ=",
-			"drm_scheme": "",
-			"drm_license_url": ""
-		  },
-		  {
-			"name": "MATRIX",
-			"ico": "https://mx.web.img3.acsta.net/medias/04/34/49/043449_af.jpg",
-			"uri": "YrhWVIy2QJe9/4udIN2k6AfPgl6ScsPlhVPJRgaX3rl/DGbHX+hnl34PftN7NYvJ9YzWYGdyakgbPeCUtw6/FQ==",
-			"drm_scheme": "",
-			"drm_license_url": ""
-		  },
-		  {
-			"name": "MATRIX 2",
-			"ico": "https://es.web.img3.acsta.net/r_1280_720/pictures/bzp/01/28540.jpg",
-			"uri": "YrhWVIy2QJe9/4udIN2k6AfPgl6ScsPlhVPJRgaX3rlhigFMrAg7VqE+mh8IFoRlBCu5YU8qzE/2cHl8pK2pjQ==",
-			"drm_scheme": "",
-			"drm_license_url": ""
-		  },
-		  {
-			"name": "MATRIX 3",
-			"ico": "https://es.web.img2.acsta.net/medias/nmedia/18/78/91/51/20076377.jpg",
-			"uri": "YrhWVIy2QJe9/4udIN2k6AfPgl6ScsPlhVPJRgaX3rkdT7NqMjXKOKibyt/yQSKjW5+g7UqT0gk4KGQDpTNQsQ==",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
@@ -998,6 +991,54 @@
 			"uri": "YrhWVIy2QJe9/4udIN2k6NeFkt1hn/BLUmaSDhIGUZFEbYvK7nQgs+i+OP3ljQtaXGgJOF/BkUP4pblqi4MBpQ==",
 			"drm_scheme": "",
 			"drm_license_url": ""
+		  },
+		  {
+			"name": "Rapidos y furiosos 5control",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d7OwxVxXdkfUOwh5VvW6JpY0Ot9.jpg",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQ+v5IZ3buW6nT8bKrRm14XMnyhLJRNIrYMauBuTz17rKN4pF7/tJ+pz7YsOsdhf/y+YNCg2MUd/DTO7SLnLF7gA==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Rapidos y furiosos 6",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6zUkjB5OtiFhN2DiqdT1IllNJTa.jpg",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQzqjuKR5wFxKolvKQijzc0E/n07nxW3Np0PwnHLeRl82oZsXytY6XSRpqYJtPeb+tSDSHz5k8m8AIiKNya3pv0Q==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Rapidos y furiosos 7",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yWG5W4tKCQweHEdnKV4YEvqOBGx.jpg",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQ+FaVB1BcOihDEOSTeDTldoU3TWsyj9ERmsjoF79Ewx1D1PL7LvI8k1lPFXBWJCk/+3h+byC+LAJ1qlaVqdv9RA==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Rapidos y furiosos 8",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5b1zDwWxoDG8p8aHoRYfzOd7Lvy.jpg",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQoOqFxOV81Gie+xtJuWyOJLEvxL3OGrkNGr4cK+xL5AizxpyUJS+CSbXzp+iGAEsQgzk0NqApQR8fQOMfRAJolQ==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Rapidos y furiosos 9",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rI2F6jZ6a7K0bODSJStywn3eHLm.jpg",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQNArsbNzZRF9TSV8PD9nZ0Myz45ZB99PLzGHSMKxwmZ64WSochEJx7kyJ19jd/ETKOgchdQCRL7PUkZGEN2O76Q==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  }
+        ]
+	  },
+	  {
+        "name": "PELICULAS AVENTURAS",
+        "mode": false,
+        "lista": [
+		  {
+			"name": "Spider-Man: Sin camino a casa (2021)",
+			"ico": "https://www.sonypictures.com.ar/sites/argentina/files/2022-04/SNH_LAS_OnLine_1400x2075.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrO50j7MYfW0Gc9qoi2ouqhI=",
+			"drm_scheme": "",
+			"drm_license_url": ""
 		  }
         ]
 	  },
@@ -1011,7 +1052,21 @@
 			"uri": "YrhWVIy2QJe9/4udIN2k6CmxkhaYPkcKkdMeJ0H3416XNGf+/XNr7/NFD9i2FtiwHh6KUBPlrlxkQvcgMLdvMp8P9IgP2FTQiN5L1iCf+kU=",
 			"drm_scheme": "",
 			"drm_license_url": ""
-		  } 
+		  },
+		  {
+			"name": "Argentina 1985",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg",
+			"uri": "YrhWVIy2QJe9/4udIN2k6CpQJPtNb/SpHQ37sII8/QrrAYfKQTBdyr4lYdG5DKd3",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Porno para principiantes (2019)",
+			"ico": "https://es.web.img2.acsta.net/c_310_420/pictures/19/07/29/01/03/1964026.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrJmGY/hk/JFSDRvQkxyTKtY=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  }
         ]
 	  },
     {
@@ -1071,14 +1126,14 @@
 			"name": "MI NOVIO ES UN ZOMBIE 2013",
 			"ico": "https://panelssh.com.ar/ImgPelis/mi_novio_es_un_zombie.jpg",
 			"uri": "i2Q0C1Xj6ZiKyI1LZ7t6e4MPqpelf5NiS0CXQSk88fXWriLwE3P/+8aPvQY+YEEjDDZN6ZNr6ysu9tz5XydRBQ==",
-			"drm_scheme": null,
+			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
 		  {
 			"name": "EL CONJURO",
 			"ico": "https://panelssh.com.ar/ImgPelis/el_conjuro.jpg",
 			"uri": "i2Q0C1Xj6ZiKyI1LZ7t6e4MPqpelf5NiS0CXQSk88fVpkNQIR204DRg8dpOPPjoAPEt2j0eChh+V1FkrhgcYwQ==",
-			"drm_scheme": null,
+			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
 		  {
@@ -1143,6 +1198,13 @@
 			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQBuCUREmuJIKhWFhXlAxNsNiUSEX7XoV5ZdQsrHwtI5R9hMCIhZaEgA+92UbrRAjtiwG3e8BvCDBomHvWDU0LMA==",
 			"drm_scheme": "",
 			"drm_license_url": ""
+		  },
+		  {
+			"name": "Scream 5 (2022)",
+			"ico": "https://pics.filmaffinity.com/scream-569724366-mmed.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrOeLQd7mfjcR12/YmZV1MWs=",
+			"drm_scheme": "",
+			"drm_license_url": ""
 		  }
         ]
 	  },
@@ -1181,35 +1243,35 @@
 		  {
 			"name": "Rapidos y furiosos 5control",
 			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d7OwxVxXdkfUOwh5VvW6JpY0Ot9.jpg",
-			"uri": "jUko0CPw1IzGcznkzpmErkXQPqOn5Wv35v5DUMxSLPQ4tI42TEVN3UuM44+QRj9FI/42VnggVGArBtQo5zBIs3UVJgLd1thPWyy/JsmRXKCJzlLwwsZyAOUsDc/4RBmsrJxkUzGbems0WlZJ+IPWRg==",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQ+v5IZ3buW6nT8bKrRm14XMnyhLJRNIrYMauBuTz17rKN4pF7/tJ+pz7YsOsdhf/y+YNCg2MUd/DTO7SLnLF7gA==",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
 		  {
 			"name": "Rapidos y furiosos 6",
 			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6zUkjB5OtiFhN2DiqdT1IllNJTa.jpg",
-			"uri": "jUko0CPw1IzGcznkzpmErkXQPqOn5Wv35v5DUMxSLPQ4tI42TEVN3UuM44+QRj9FjKIJoZ736wQoTGZPO2v3RZwk2eIfecS6KM6eHSDHVENyMW0vKktVsTZ/LwUq21tVjy5fW7S+OFQGNjL9l5vpIg==",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQzqjuKR5wFxKolvKQijzc0E/n07nxW3Np0PwnHLeRl82oZsXytY6XSRpqYJtPeb+tSDSHz5k8m8AIiKNya3pv0Q==",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
 		  {
 			"name": "Rapidos y furiosos 7",
 			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yWG5W4tKCQweHEdnKV4YEvqOBGx.jpg",
-			"uri": "jUko0CPw1IzGcznkzpmErkXQPqOn5Wv35v5DUMxSLPQ4tI42TEVN3UuM44+QRj9FsVv5D6DRRhQ1TA7/3mXjKw8ZJe7JOdo6AvFgYOxZeh7sCx67EE4ECeJeGjmkmdhcRAwLAfCCiZzIKVYH3aZ+qg==",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQ+FaVB1BcOihDEOSTeDTldoU3TWsyj9ERmsjoF79Ewx1D1PL7LvI8k1lPFXBWJCk/+3h+byC+LAJ1qlaVqdv9RA==",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
 		  {
 			"name": "Rapidos y furiosos 8",
 			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5b1zDwWxoDG8p8aHoRYfzOd7Lvy.jpg",
-			"uri": "jUko0CPw1IzGcznkzpmErkXQPqOn5Wv35v5DUMxSLPQ4tI42TEVN3UuM44+QRj9FnCIeKv4xManF+uWfWYCG2PGnkHGi/f3A9oIEaKm2OJXGEUYKnbFjL9s1vXDsFu4dDXqaW2adIFUMFYQ3U5RNkA==",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQoOqFxOV81Gie+xtJuWyOJLEvxL3OGrkNGr4cK+xL5AizxpyUJS+CSbXzp+iGAEsQgzk0NqApQR8fQOMfRAJolQ==",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
 		  {
 			"name": "Rapidos y furiosos 9",
 			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rI2F6jZ6a7K0bODSJStywn3eHLm.jpg",
-			"uri": "jUko0CPw1IzGcznkzpmErkXQPqOn5Wv35v5DUMxSLPQ4tI42TEVN3UuM44+QRj9FGRRSNiY38oQlmdB9v2vyw0+0i7S7OqwtpmboTDGYI2nzMXVKaYnKNcutrlhFzmhqVX7lP4PBoB2bGotOw99Iag==",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQNArsbNzZRF9TSV8PD9nZ0Myz45ZB99PLzGHSMKxwmZ64WSochEJx7kyJ19jd/ETKOgchdQCRL7PUkZGEN2O76Q==",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
@@ -1218,75 +1280,6 @@
 			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3P9QvWVN02Etn4kYGC702WVoXEb.jpg",
 			"uri": "RWDzuSlkD35V0Fynj78NxIvuBEeIPpndZzx3zZFtTepU0uH3MoyQFozh37z4k1IX",
 			"drm_scheme": "",
-			"drm_license_url": ""
-		  }
-        ]
-	  },
-    {
-        "name": "PELICULAS SAGA HARRY POTTER",
-        "mode": false,
-        "lista": [
-          {
-			"name": "Harry Potter y la piedra filosofal (2001)",
-			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/roKMM6S9DRGFNujmvqlk8l5YbN3.jpg",
-			"uri": "cp1oO1ljp6OKuGzxdLvSJvGt6NZfwEWaJ3RCjF4u6l6RKvZifcBRc7iuHe6ir7GGVenLTGzXR60nXqI1nZS7gNLJVRtcRNPrgezsrk2tbefMehJnDNsPRTitR6YlklaIfnQ36jZiC7WJRNm/fUu4bSW55ImANd7855FeUlUQlpLX95o1RRZaGibbrcEZE4ut",
-			"drm_scheme": "ClearKey",
-			"drm_license_url": "FbK8qwVVec5My+MyV83PnKc8fdw0VslJGZBKgws4Bqn8wEJTgtwrj7akk250cWts"
-		  },
-		  {
-			"name": "Harry Potter y la cámara secreta (2002)",
-			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3nvGqfZE3yrsqehpF107byUdUSq.jpg",
-			"uri": "cp1oO1ljp6OKuGzxdLvSJvGt6NZfwEWaJ3RCjF4u6l6RKvZifcBRc7iuHe6ir7GGJkq9p1700ZTIAB9u8KhJWaFqc+vyWhOO6CvxS7yyB+wUNdsAsmcsPnxGoWDGw4LW4lOCXkOny71MAs+Z3hCeHBMG9TIA96PF3vew/P4LOQ7hcdWBLceN1aATlXj7Husy",
-			"drm_scheme": "ClearKey",
-			"drm_license_url": "FbK8qwVVec5My+MyV83PnKc8fdw0VslJGZBKgws4BqktGDmXUJFjYvfIPwWYJT0/"
-		  },
-		  {
-			"name": "Harry Potter y el prisionero de Azkaban (2004)",
-			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xBph7rrwtxUuDxyZVDQtbP2H0sM.jpg",
-			"uri": "cp1oO1ljp6OKuGzxdLvSJvGt6NZfwEWaJ3RCjF4u6l6RKvZifcBRc7iuHe6ir7GGDWe99wuWQV4FcImfNsgAIUEfZTpRYl27BCWmyplj3bQ05EJJcvk7cLZ56tU5nb4Ll5fhmnDsIg4iexGkB9wxfvHTUW7M090usgqAWTkhYZBkHfZcnTESMph78WMOqqSG",
-			"drm_scheme": "ClearKey",
-			"drm_license_url": "FbK8qwVVec5My+MyV83PnKc8fdw0VslJGZBKgws4Bqlv1CsFvN5wHnlOackEcTnK"
-		  },
-		  {
-			"name": "Harry Potter y el cáliz de fuego (2005)",
-			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sYPh29MkZTWewIL5adMwj5stqgA.jpg",
-			"uri": "cp1oO1ljp6OKuGzxdLvSJvGt6NZfwEWaJ3RCjF4u6l6RKvZifcBRc7iuHe6ir7GGn+uF0jggUF5xq6VDfgGsRIM/Fpld5a4p5eO9CSf7UeOvIcLT/J2eR4TX2Yvuq9cCo3PtSquqXeAwkaZIJVXzQdkET+UWIMDRm9tZ6ibzPBQ209d41Fuv76ysFmE5r6Zh",
-			"drm_scheme": "ClearKey",
-			"drm_license_url": "FbK8qwVVec5My+MyV83PnKc8fdw0VslJGZBKgws4Bqn9W8pNIcn0P7V0oy96icKx"
-		  },
-		  {
-			"name": "Harry Potter y la orden del Fénix (2007)",
-			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vYUjcTKDXOHJOlilNK953m8zJww.jpg",
-			"uri": "cp1oO1ljp6OKuGzxdLvSJvGt6NZfwEWaJ3RCjF4u6l6RKvZifcBRc7iuHe6ir7GG9foDLKVe+4IUnZ6Bg7x2bUZ5uWYjBD3OnjCmglRB7i1ELkSduHBfa+A+nBBc+cmUdovl3x2Od1LLxMjfS+MVb+9IhAiuUdAQyfMkirc/DbteGgYzbjYyDMDmIe55LiRM",
-			"drm_scheme": "ClearKey",
-			"drm_license_url": "FbK8qwVVec5My+MyV83PnKc8fdw0VslJGZBKgws4BqkDvdLTXf23aiJkIkg6FoFO"
-		  },
-		  {
-			"name": "Harry Potter y el misterio del príncipe (2009)",
-			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tO0UGkNuQoxyXve0mvwtXP49NAO.jpg",
-			"uri": "cp1oO1ljp6OKuGzxdLvSJvGt6NZfwEWaJ3RCjF4u6l6RKvZifcBRc7iuHe6ir7GGW4yY2yxaNAISLWw5GryNQAL9lun5EBg9xdZDyt5uCOGPeBb6g6/KwA726k7dIoxpiA+mm7VXAN5l01ZBgyeYoEoNeGfQJxQJvZEMDJQl2/RQV+wgeSTatWq1Xxi4keZ5",
-			"drm_scheme": "ClearKey",
-			"drm_license_url": "FbK8qwVVec5My+MyV83PnKc8fdw0VslJGZBKgws4BqmHU0gmplyCtpyemZfbpKiU"
-		  },
-		  {
-			"name": "Harry Potter y las reliquias de la muerte parte 1 (2010)",
-			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w6wsYKdXERaXRdByPsI2O9rn20b.jpg",
-			"uri": "cp1oO1ljp6OKuGzxdLvSJvGt6NZfwEWaJ3RCjF4u6l6RKvZifcBRc7iuHe6ir7GGkkkWPAqbeJ9Ll5kRS1GWMyD7yDkrdjgbwftZmgZx4HExOR8tyolTUY7+aoO/CgLJVjx7W7QBnlICbq4KG7LbYorPTUtI7Ob2kat2ZNvMDa+fPHDx4ScKyc9xLjke2ZrR",
-			"drm_scheme": "ClearKey",
-			"drm_license_url": "FbK8qwVVec5My+MyV83PnKc8fdw0VslJGZBKgws4Bqm+LZlpQ7262DnT/p9O4OBM"
-		  },
-		  {
-			"name": "Harry Potter y las reliquias de la muerte: Parte 2 (2011)",
-			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wjKy2wSlDiLLLIkM7tHnxsXG8Tp.jpg",
-			"uri": "cp1oO1ljp6OKuGzxdLvSJvGt6NZfwEWaJ3RCjF4u6l6RKvZifcBRc7iuHe6ir7GGbm6ezaDjnBQrwDsOwdEKskcMFLFefUk3cPwWo27BO8G4LV0N9djuWVExSihGhsGNZhQPYNIc6ERJ90AWkeXWTkyy0JHVKLNq4Y2M+BWg0QU2ic6KSDsLtank1+lE4Mrj",
-			"drm_scheme": "ClearKey",
-			"drm_license_url": "FbK8qwVVec5My+MyV83PnKc8fdw0VslJGZBKgws4Bql6+UncXOw5npzCUNfkOCjI"
-		  },
-		  {
-			"name": "Harry Potter 20 Aniversario: Regreso a Hogwarts (2022)",
-			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eEqy4buuj4hJfXvMQiwpl6GJzY9.jpg",
-			"uri": "cp1oO1ljp6OKuGzxdLvSJvGt6NZfwEWaJ3RCjF4u6l6RKvZifcBRc7iuHe6ir7GGbm6ezaDjnBQrwDsOwdEKskcMFLFefUk3cPwWo27BO8G4LV0N9djuWVExSihGhsGNZhQPYNIc6ERJ90AWkeXWTkyy0JHVKLNq4Y2M+BWg0QU2ic6KSDsLtank1+lE4Mrj",
-			"drm_scheme": "ClearKey",
 			"drm_license_url": ""
 		  }
         ]
@@ -1380,5 +1373,74 @@
 			"drm_license_url": ""
 		  }
         ]		
-    }
+    },
+	{
+        "name": "PELICULAS CANTINFLAS",
+        "mode": false,
+        "lista": [
+		  {
+			"name": "Por mis pistolas (1968)",
+			"ico": "https://pics.filmaffinity.com/por_mis_pistolas-592472044-mmed.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrDiukcuaSubzYBOxNrxIa4k=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Romeo y Julieta (1943)",
+			"ico": "https://pics.filmaffinity.com/romeo_y_julieta-419364247-mmed.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrAXhx8u30Cg1MZ9w+JhIXdk=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Si yo fuera diputado (1952)",
+			"ico": "https://pics.filmaffinity.com/si_yo_fuera_diputado-836135144-mmed.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrA07d1GRx6fRv389isWh2vg=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Soy un prófugo (1946)",
+			"ico": "https://pics.filmaffinity.com/soy_un_profugo-259108757-mmed.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrCsveGOiS49XOVIgcyEbuXw=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Sube y Baja (1959)",
+			"ico": "https://pics.filmaffinity.com/sube_y_baja-289024493-mmed.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrI/qHh0GCfi0/R0yplNqzYg=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Su Excelencia (1967)",
+			"ico": "https://pics.filmaffinity.com/su_excelencia-834112990-mmed.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrHPO+F1xi4lwAfL6wvy1WIM=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Un día con el Diablo (1945)",
+			"ico": "https://pics.filmaffinity.com/un_dia_con_el_diablo-526028740-mmed.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrKzXfZh3bQixtkbpQGxIrfs=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Un Quijote sin mancha (1969)",
+			"ico": "https://pics.filmaffinity.com/un_quijote_sin_mancha-948529970-mmed.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrKY0fgIpC/7YdIvE6FXvKhY=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "¡A volar, joven! (1947)",
+			"ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNcksIbQrfWrskn03hjuiETw5G1.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrFlQO1AUAPt9FpU8xv8im9c=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  }
+        ]
+	  }
 ]
