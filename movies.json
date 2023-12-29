@@ -368,7 +368,7 @@
 		  },
 		  {
 			"name": "Hotel Transylvania 4: Transformanía (2022)",
-			"ico": "https://pics.filmaffinity.com/hotel_transylvania_transformania-483494855-mmed.jpg",
+			"ico": "https://liontv.com.ar/imgpel/hotel_transylvania_transformania.jpg",
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrDOsX0CPd5yAp2dTqMCVw7o=",
 			"drm_scheme": "",
 			"drm_license_url": ""
@@ -382,7 +382,7 @@
 		  },
 		  {
 			"name": "Encanto (2021)",
-			"ico": "https://pics.filmaffinity.com/encanto-246546841-mmed.jpg",
+			"ico": "https://liontv.com.ar/imgpel/encanto.jpg",
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrLs4D0xUZ8g1mg2VRoc/pG4=",
 			"drm_scheme": "",
 			"drm_license_url": ""
@@ -402,14 +402,14 @@
 		  },
 		  {
 			"name": "El Proyecto Adam (2022)",
-			"ico": "https://pics.filmaffinity.com/the_adam_project-982692706-mmed.jpg",
+			"ico": "https://liontv.com.ar/imgpel/the_adam_project.jpg",
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrGwPEAv8VtYld8L+smO4RHo=",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
 		  {
 			"name": "Desesperada (2021)",
-			"ico": "https://pics.filmaffinity.com/the_desperate_hour-184114991-mmed.jpg",
+			"ico": "https://liontv.com.ar/imgpel/the_desperate_hour.jpg",
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrEm9T+wdw1xOBVwndC7QvNo=",
 			"drm_scheme": "",
 			"drm_license_url": ""
@@ -694,7 +694,7 @@
 		  },
 		  {
 			"name": "Aguas profundas (2022)",
-			"ico": "https://pics.filmaffinity.com/deep_water-790981437-mmed.jpg",
+			"ico": "https://liontv.com.ar/imgpel/deep_water.jpg",
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrE9qp/m0owGmiKHNLibvSE0=",
 			"drm_scheme": "",
 			"drm_license_url": ""
@@ -757,7 +757,7 @@
 		  },
 		  {
 			"name": "La Casa Gucci (2021)",
-			"ico": "https://pics.filmaffinity.com/house_of_gucci-575878865-mmed.jpg",
+			"ico": "https://liontv.com.ar/imgpel/house_of_gucci.jpg",
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrDGJhButlYlzIuFKOgi8eZc=",
 			"drm_scheme": "",
 			"drm_license_url": ""
@@ -770,7 +770,7 @@
         "lista": [
 		 {
 			"name": "RED (2010)",
-			"ico": "https://pics.filmaffinity.com/red-700937638-mmed.jpg",
+			"ico": "https://liontv.com.ar/imgpel/red.jpg",
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrBVd9Wwze4lNGs+8ME+UxN4=",
 			"drm_scheme": "",
 			"drm_license_url": ""
@@ -1208,7 +1208,7 @@
 		  },
 		  {
 			"name": "Scream 5 (2022)",
-			"ico": "https://pics.filmaffinity.com/scream-569724366-mmed.jpg",
+			"ico": "https://liontv.com.ar/imgpel/scream5.jpg",
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrOeLQd7mfjcR12/YmZV1MWs=",
 			"drm_scheme": "",
 			"drm_license_url": ""
@@ -1310,9 +1310,9 @@
         "mode": false,
         "lista": [
           {
-			"name": "Rapidos y furiosos 1 [Test]",
+			"name": "Rapidos y furiosos 1",
 			"ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2001/6/w1280/rCdEN70nBLJfrzE7NwPtCSxjjrA.jpg",
-			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrB1I/tvF2RXle/QqB2o0XKY=",
+			"uri": "vcfXRNhYLEN8LqSW/jVw91DWKGW9wol6ICWDRVpjb5N95jtdtLvqOzTEPPUWfuG+2FQZiNBUnJcYuZkMcP0OIDY8ccaNnZp44UNiR4rxqQY=",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
@@ -1394,56 +1394,56 @@
         "lista": [
 		  {
 			"name": "Por mis pistolas (1968)",
-			"ico": "https://pics.filmaffinity.com/por_mis_pistolas-592472044-mmed.jpg",
+			"ico": "https://liontv.com.ar/imgpel/por_mis_pistolas.jpg",
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrDiukcuaSubzYBOxNrxIa4k=",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
 		  {
 			"name": "Romeo y Julieta (1943)",
-			"ico": "https://pics.filmaffinity.com/romeo_y_julieta-419364247-mmed.jpg",
+			"ico": "https://liontv.com.ar/imgpel/romeo_y_julieta.jpg",
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrAXhx8u30Cg1MZ9w+JhIXdk=",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
 		  {
 			"name": "Si yo fuera diputado (1952)",
-			"ico": "https://pics.filmaffinity.com/si_yo_fuera_diputado-836135144-mmed.jpg",
+			"ico": "https://liontv.com.ar/imgpel/si_yo_fuera_diputado.jpg",
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrA07d1GRx6fRv389isWh2vg=",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
 		  {
 			"name": "Soy un prófugo (1946)",
-			"ico": "https://pics.filmaffinity.com/soy_un_profugo-259108757-mmed.jpg",
+			"ico": "https://liontv.com.ar/imgpel/soy_un_profugo.jpg",
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrCsveGOiS49XOVIgcyEbuXw=",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
 		  {
 			"name": "Sube y Baja (1959)",
-			"ico": "https://pics.filmaffinity.com/sube_y_baja-289024493-mmed.jpg",
+			"ico": "https://liontv.com.ar/imgpel/sube_y_baja.jpg",
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrI/qHh0GCfi0/R0yplNqzYg=",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
 		  {
 			"name": "Su Excelencia (1967)",
-			"ico": "https://pics.filmaffinity.com/su_excelencia-834112990-mmed.jpg",
+			"ico": "https://liontv.com.ar/imgpel/su_excelencia.jpg",
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrHPO+F1xi4lwAfL6wvy1WIM=",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
 		  {
 			"name": "Un día con el Diablo (1945)",
-			"ico": "https://pics.filmaffinity.com/un_dia_con_el_diablo-526028740-mmed.jpg",
+			"ico": "https://liontv.com.ar/imgpel/un_dia_con_el_diablo.jpg",
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrKzXfZh3bQixtkbpQGxIrfs=",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
 		  {
 			"name": "Un Quijote sin mancha (1969)",
-			"ico": "https://pics.filmaffinity.com/un_quijote_sin_mancha-948529970-mmed.jpg",
+			"ico": "https://liontv.com.ar/imgpel/un_quijote_sin_mancha.jpg",
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrKY0fgIpC/7YdIvE6FXvKhY=",
 			"drm_scheme": "",
 			"drm_license_url": ""
