@@ -1375,6 +1375,89 @@
         ]		
     },
 	{
+        "name": "PELICULAS SAGA RAPIDOS Y FURIOSOS",
+        "mode": false,
+        "lista": [
+          {
+			"name": "Rapidos y furiosos 1",
+			"ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2001/6/w1280/rCdEN70nBLJfrzE7NwPtCSxjjrA.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrA80UvNiUS33c8tvfHKB4io=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Rapidos y furiosos 2",
+			"ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2003/6/w1280/iZUSbYbUXol5AezpNIJwwENdyE0.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrM3Yzbe1bwtMGj6JWtyOf7k=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Rapidos y furiosos Reto Tokio",
+			"ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/iKlO5uVXQo3f78uCqjcB6b31eir.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrOu76QDjzzSjIIM7a0U6Id4=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Mas Rapido Mas Furioso",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vvewollXh3k2G8ruTYhhBTqZH19.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrEG6Z4Hj7Rx02kcrQfJlPGk=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Rapidos y furiosos 5control",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d7OwxVxXdkfUOwh5VvW6JpY0Ot9.jpg",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQ+v5IZ3buW6nT8bKrRm14XMnyhLJRNIrYMauBuTz17rKN4pF7/tJ+pz7YsOsdhf/y+YNCg2MUd/DTO7SLnLF7gA==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Rapidos y furiosos 6",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6zUkjB5OtiFhN2DiqdT1IllNJTa.jpg",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQzqjuKR5wFxKolvKQijzc0E/n07nxW3Np0PwnHLeRl82oZsXytY6XSRpqYJtPeb+tSDSHz5k8m8AIiKNya3pv0Q==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Rapidos y furiosos 7",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yWG5W4tKCQweHEdnKV4YEvqOBGx.jpg",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQ+FaVB1BcOihDEOSTeDTldoU3TWsyj9ERmsjoF79Ewx1D1PL7LvI8k1lPFXBWJCk/+3h+byC+LAJ1qlaVqdv9RA==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Rapidos y furiosos 8",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5b1zDwWxoDG8p8aHoRYfzOd7Lvy.jpg",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQoOqFxOV81Gie+xtJuWyOJLEvxL3OGrkNGr4cK+xL5AizxpyUJS+CSbXzp+iGAEsQgzk0NqApQR8fQOMfRAJolQ==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Rapidos y furiosos 9",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rI2F6jZ6a7K0bODSJStywn3eHLm.jpg",
+			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQNArsbNzZRF9TSV8PD9nZ0Myz45ZB99PLzGHSMKxwmZ64WSochEJx7kyJ19jd/ETKOgchdQCRL7PUkZGEN2O76Q==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Rapidos y Furiosos 10",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3P9QvWVN02Etn4kYGC702WVoXEb.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrJ5vKdlg6L4EKnD4PMCpz60=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Rápidos y Furiosos: Hobbs y Shaw (2019)",
+			"ico": "https://es.web.img2.acsta.net/c_310_420/pictures/19/06/17/15/11/1838116.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrI20u6569wohXHFfJxvSsWk=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  }
+        ]
+	  },
+	{
         "name": "PELICULAS CANTINFLAS",
         "mode": false,
         "lista": [
