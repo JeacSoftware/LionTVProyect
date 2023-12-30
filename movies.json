@@ -220,6 +220,13 @@
         "mode": false,
         "lista": [
 		  {
+			"name": "Harley Quinn: Especial de un Muy Problemático San Valentín (2023)",
+			"ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w780/uoS9GGOmQULtRpBysNakwvO8k3Q.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrI1lFr+kW9tMnABCve8bFrc=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
 			"name": "Lupin III vs Ojos de Gato (2023)",
 			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9GK9LTdgd0qTbhFkS630bk1qaE0.jpg",
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrFrybd8ztUztTH7y269DRWM=",
@@ -441,6 +448,27 @@
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrN1SQvnTREbgoM+XVCnowpc=",
 			"drm_scheme": "",
 			"drm_license_url": ""
+		  },
+		  {
+			"name": "KSI: In Real Life (2023)",
+			"ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w780/nUCiGWCcvcIVthb9cAW1PMz6vUR.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrKARkltWUR5H7BeW3BSgZ+Q=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Infiesto (2023)",
+			"ico": "https://es.web.img3.acsta.net/c_310_420/pictures/23/01/16/15/50/4640240.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrL2IJAqfV8jCav9pU8bAmC8=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Pamela: Una historia de amor (2023)",
+			"ico": "https://es.web.img3.acsta.net/c_310_420/pictures/23/01/18/13/10/1031933.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrFcaepUTgijg24A4Dx0mUjM=",
+			"drm_scheme": "",
+			"drm_license_url": ""
 		  }
         ]
     },
@@ -448,6 +476,55 @@
         "name": "PELICULAS COMEDIA",
         "mode": false,
         "lista": [
+		  {
+			"name": "Amor al cuadrado otra vez (2023)",
+			"ico": "https://es.web.img3.acsta.net/c_310_420/pictures/23/02/03/11/23/1256691.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrIdxmGh8LmnsGvUcsXxXCM0=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+			},
+		  {
+			"name": "A Quien Solía Conocer (2023)",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bLnCr0Yfu0TMltCpetRCNyg2wa8.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrDXWqsl7XRTtaKOV8drRIYU=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+			},
+		  {
+			"name": "Tu casa o la mía (2023)",
+			"ico": "https://es.web.img3.acsta.net/c_310_420/pictures/23/01/18/08/40/5351683.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrNg01tNzHJe6hU2twmiCanE=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+			},
+		  {
+			"name": "Nos vemos en Paris (2023)",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zu0aQV4A9auBWwFEpgiYeAIqv2c.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrOVeW4Rbbxkf/V/IVpq4MZI=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+			},
+		  {
+			"name": "At Midnight (2023)",
+			"ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w780/k6E1f3XvTq0sa02nUykPCwFKsBx.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrC3OEw7Pe3uMSYIfQI9AD4o=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+			},
+		  {
+			"name": "Love in Glacier National: A National Park Romance (2023)",
+			"ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w780/zhi6FXSSBeJm0XPIbBckp5IENEX.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrHRSjVk0HzI2pzTl9U2PGdk=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+			},
+		  {
+			"name": "Jethica (2023)",
+			"ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w780/qJgsvHJZvfuAJOf3GjcQqK8o1Va.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrHaIujDKz6e7f1zcwGywbP8=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+			},
 		  {
 			"name": "Ustedes (2023)",
 			"ico": "https://media.filmelier.com/tit/2OOlBf/poster/ustedes__SB6XAs.jpeg",
@@ -756,6 +833,34 @@
         "mode": false,
         "lista": [
 		  {
+			"name": "Baby Ruby (2023)",
+			"ico": "https://bloghorror.com/wp-content/uploads/2023/03/Baby-Ruby-2023_4.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrNcsnrFPbdPUYcY8VqqE6oM=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Espíritu libre (2023)",
+			"ico": "https://es.web.img2.acsta.net/c_310_420/pictures/23/01/11/09/55/4676715.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrDWBUmwCLy0KGETnDGV1VtA=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Delusional (2023)",
+			"ico": "https://i.kinja-img.com/image/upload/c_fill,h_496,q_80,w_334/b938136a956b55b008e5c45f55232d63.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrJnGs8zFeOWMCyLHm+ciak4=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Beneath the Green (2023)",
+			"ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w780/233T8irir46JsGAIcvVZeS9EHKo.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrOxvO0FJ7oDfzQ9VhZeP5n8=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
 			"name": "Bezos (2023)",
 			"ico": "https://liontv.com.ar/imgpel/bezos.jpg",
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrD8YtkwqucRInvb3+6zE2d4=",
@@ -786,7 +891,7 @@
 		  {
 			"name": "Entre el Amor y la Amistad (2023)",
 			"ico": "https://martincid.com/wp-content/uploads/2023/02/a_sunday_affair-495416238-large-400x500.jpg",
-			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrLPebcojA99FVLMp/6IYil0=",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrKuJn5uKWtsHZcffccMSz7c=",
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
@@ -880,6 +985,27 @@
         "name": "PELICULAS DE ACCION",
         "mode": false,
         "lista": [
+		 {
+			"name": "Little Dixie (2023)",
+			"ico": "https://www.cine.com/media/peliculas/little-dixie-139420_poster_w200.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrEsrFue/YPPrfySGR0ac7hI=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		 },
+		 {
+			"name": "The Locksmith (2023)",
+			"ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w780/kNQ9Z3TQ5vU5fvwuHqZvLooFcCI.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrJmP7UVfk5LzODvy0HkFgHE=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		 },
+		 {
+			"name": "Alerta extrema (2023)",
+			"ico": "https://media.filmelier.com/tit/tCc4ts/poster/alerta-extrema_-yXZzOw.jpeg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrNc1SSOA38RSqQx8B/Gyj+E=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		 },
 		 {
 			"name": "Lobo adolescente - La película (2023)",
 			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/foeDbOTaAYk5jfbsdnFyVzwLH0p.jpg",
@@ -1305,6 +1431,34 @@
         "mode": false,
         "lista": [
           {
+			"name": "Infinity Pool (2023)",
+			"ico": "https://es.web.img3.acsta.net/c_310_420/pictures/22/12/09/07/51/1665168.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrE+FZ4xXCAKAjLBDqakw6IM=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Llaman a la puerta (2023)",
+			"ico": "https://img.peliplat.com/api/resize/v1?imagePath=peliplat/article/20231021/3922008e5788c072b19bf049d3ac4470.jpeg&source=s3-peliplat",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrCFfvA0MMRGrW2/C2aWUMRA=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Waking Karma (2023)",
+			"ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w780/3UDnLH9NemIoX7DgGYwbyC1OJDS.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrFuDESC0xANj5alUYE7iLoI=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Winnie the Pooh: Sangre y Miel (2023)",
+			"ico": "https://www.elseptimoarte.net/carteles/341/winnie_the_pooh_blood_and_honey_96448.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrGy66/Ie1U+qQwTy0ZIwKEo=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
 			"name": "Candy Land (2023)",
 			"ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w780/r7ZipEd9oHHVVXTcvbx3Sd3Tukv.jpg",
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrGdu+xLArBmXqlyvuOZKE2Y=",
