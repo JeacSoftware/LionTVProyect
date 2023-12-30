@@ -220,6 +220,13 @@
         "mode": false,
         "lista": [
 		  {
+			"name": "Legión de superhéroes (2023)",
+			"ico": "https://www.elseptimoarte.net/carteles/341/legion_de_superheroes_96634.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrA/13RCjURzq3nqlGkOSo+U=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
 			"name": "El niño y el tigre (2022)",
 			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7LfZhnN96Zs2xv8c0PeaExU1yw.jpg",
 			"uri": "jUko0CPw1IzGcznkzpmErsr1E4BEvygOCkcueSWC//mlKGQGjz0wu31+ixu+qKrQ3wmA9QYWg/B9GWXPjrRfkcZikYFvBC7++A/5Dmvuzg2u17arsamjab7uid/icMZSjuzIlr42zg/yTeSAZae6dw==",
@@ -413,6 +420,20 @@
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrEm9T+wdw1xOBVwndC7QvNo=",
 			"drm_scheme": "",
 			"drm_license_url": ""
+		  },
+		  {
+			"name": "7th Secret (2023)",
+			"ico": "https://phillybornfilms.com/wp-content/uploads/7thSecret_Poster.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrGJ9QfEhiYV8mO6i3kEjplc=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Le Parti, la Chine sous emprise (2023)",
+			"ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hi8YEbpgwDEF8p91tnp0xrgiRw.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrN1SQvnTREbgoM+XVCnowpc=",
+			"drm_scheme": "",
+			"drm_license_url": ""
 		  }
         ]
     },
@@ -420,6 +441,41 @@
         "name": "PELICULAS COMEDIA",
         "mode": false,
         "lista": [
+		  {
+			"name": "The Dog Lover's Guide to Dating (2023)",
+			"ico": "https://cdn11.bigcommerce.com/s-g3s50bo3r3/images/stencil/1280x1280/products/748/1351/image__02716.1672693571.jpg?c=2",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrLtqs5tCadJYbS8iWXNf1rI=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Bank of Dave (2023)",
+			"ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w780/6qRsmh6500c6piPbIcwc2VZ3E1n.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrO9nBRRTGGsRwdC2DBTGGMQ=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Fiesta en Casa (2023)",
+			"ico": "https://www.elseptimoarte.net/carteles/341/house_party_95298.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrKxigduBJ1khCzg8tRnTvS8=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Juntos Pero No Revueltos (2023)",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9v4h3j0zwDDOQasBC2kJPpXVGck.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrDG+fxibsSpfg1Op1w1jsqg=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Jackass por Siempre (2022)",
+			"ico": "https://es.web.img3.acsta.net/c_310_420/pictures/22/02/28/15/06/3504600.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrBa3YnY85rfz9Re5W4IubpY=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
 		  {
 			"name": "Más Barato por Docena (2022)",
 			"ico": "https://media.filmelier.com/tit/5NMbmU/poster/mas-barato-por-docena__HzBbXU.jpeg",
@@ -686,6 +742,41 @@
         "mode": false,
         "lista": [
 		  {
+			"name": "Battlebox (2023)",
+			"ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w780/fDeqyKwEtms2IFtT8SDvURZWqAF.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrGgl3UlGNeovuttEQKoyO4I=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "JUNG_E (2023)",
+			"ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/1/w780/zYnp9vNPdJiCU0SIisWdA3VIGNB.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrMxHASCMxhC7b1XgQOsi3r0=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Perro perdido (2023)",
+			"ico": "https://www.elseptimoarte.net/carteles/341/dog_gone_96276.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrPzrtTfcge3D49Y9mzVD5BI=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Entre el Amor y la Amistad (2023)",
+			"ico": "https://martincid.com/wp-content/uploads/2023/02/a_sunday_affair-495416238-large-400x500.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrLPebcojA99FVLMp/6IYil0=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Capitán Carver (2023)",
+			"ico": "https://cineparadisfrutardotcom.files.wordpress.com/2023/01/capitan-carver.jpg?w=167",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrMQZWgiHPn3I43SzEyiCz8Q=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
 			"name": "Dog: Un viaje salvaje (2022)",
 			"ico": "https://es.web.img3.acsta.net/c_310_420/pictures/22/03/03/18/15/3886284.jpg",
 			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrIIJYbSw5AqNK6vVfz1zvrk=",
@@ -768,6 +859,48 @@
         "name": "PELICULAS DE ACCION",
         "mode": false,
         "lista": [
+		 {
+			"name": "Camino de la venganza (2023)",
+			"ico": "https://s3-eu-west-1.amazonaws.com/abandomedia/indie/foto/db_68758.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrLy799w8rMzGflxK2/VHIak=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		 },
+		 {
+			"name": "Agente Fortune: El gran engaño (2023)",
+			"ico": "https://es.web.img3.acsta.net/c_310_420/pictures/22/01/11/11/51/5571341.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrGfZJhxI6h5DUdon4ojV0xk=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		 },
+		 {
+			"name": "The Spawn (2023)",
+			"ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/4/w780/1bt18tcKvws79EW50FvIftlba5W.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrNU/2/E8XDNIYmwN/E1honc=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		 },
+		 {
+			"name": "Ip Man: El Despertar (2023)",
+			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A7vhdyGrpPMKXsuFBZzxmave94F.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrIEg3zjAKSTpJEOBjda/7Hc=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		 },
+		 {
+			"name": "Double Threat (2023)",
+			"ico": "https://cityonfire.com/wp-content/uploads/2023/01/Double-Threat-225x300.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrIYtca3PXgK5D4jzZtqm2rQ=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		 },
+		 {
+			"name": "Panama (2022)",
+			"ico": "https://liontv.com.ar/imgpel/panama.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrFdiSIR8/azi9WI2HfeqAZA=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		 },
 		 {
 			"name": "RED (2010)",
 			"ico": "https://liontv.com.ar/imgpel/red.jpg",
@@ -1033,6 +1166,55 @@
         "name": "PELICULAS AVENTURAS",
         "mode": false,
         "lista": [
+		  {
+			"name": "SOS Survive or Sacrifice (2020)",
+			"ico": "https://cdn-0.filmthreat.com/wp-content/uploads/2020/11/REVIEW-SOS-Survive-or-Sacrifice-4.jpeg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrF2uUDlxCTNRVwHidnLmA2c=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "L'Empereur de Paris (2018)",
+			"ico": "https://fr.web.img4.acsta.net/c_310_420/pictures/18/11/15/16/35/0321684.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrNwSZTZgjwK4MtOZ42nlos4=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+			"ico": "http://51.222.152.107/posters/1553638372300.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrOVfIBc/WCxIWA7FsI40904=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Phoenix Wilder and the Great Elephant Adventure (2017)",
+			"ico": "https://img.icdn.my.id/thumb/w_200/h_300/phoenix-wilder-and-the-great-elephant-adventure-26661.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrIaMWHuJ7/qiJvvRnfdNsU0=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "RedBad (2018)",
+			"ico": "https://es.web.img2.acsta.net/c_310_420/pictures/18/09/18/18/08/1949404.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrDdyzAJatMz2CDOmu9HzlSE=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Askeladden - I Dovregubbens hall (2017)",
+			"ico": "https://www.moviemeter.com/images/cover/1118000/1118108.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrL6m0XpIr1jzC3+uxtqEa4k=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "Moonfall: Impacto Lunar (2022)",
+			"ico": "https://es.web.img2.acsta.net/c_310_420/pictures/22/01/10/10/56/3025068.jpg",
+			"uri": "x8RqeySHyPXP9D3trSX9K2p27XGlMlqe6BKVsaps5M/BeUHX0sRPNE6eEbwmHecuUUPcf/eEQlujFS1X+tYqrBj5cPVVEecLzf5AzeNBnxw=",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
 		  {
 			"name": "Spider-Man: Sin camino a casa (2021)",
 			"ico": "https://www.sonypictures.com.ar/sites/argentina/files/2022-04/SNH_LAS_OnLine_1400x2075.jpg",
