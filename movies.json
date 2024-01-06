@@ -10,6 +10,13 @@
 			"drm_scheme": "",
 			"drm_license_url": ""
 		  },
+		  {
+			"name": "Patos (2023) (1080p)",
+			"ico": "http://140.238.187.83/Peliculas/Patos_2023/patos.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMgJra+5c2QNLvwKS4eKMEobPoPbXYEhlgbESVr3xu0g5vUJ0fFZmt7JKYwO95zyASA==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
 		   {
 			"name": "El justiciero: Capítulo final (2023)",
 			"ico": "https://bajalogratis.com/wp-content/uploads/2023/11/El_justiciero_Capaitulo_final.jpg",
@@ -226,6 +233,13 @@
         "name": "PELICULAS INFANTILES",
         "mode": false,
         "lista": [
+		  {
+			"name": "Patos (2023) (1080p)",
+			"ico": "http://140.238.187.83/Peliculas/Patos_2023/patos.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMgJra+5c2QNLvwKS4eKMEobPoPbXYEhlgbESVr3xu0g5vUJ0fFZmt7JKYwO95zyASA==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
 		  {
 			"name": "Harley Quinn: Especial de un Muy Problemático San Valentín (2023)",
 			"ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/2/w780/uoS9GGOmQULtRpBysNakwvO8k3Q.jpg",
