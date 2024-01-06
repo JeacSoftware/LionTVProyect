@@ -119,6 +119,54 @@
 			"drm_license_url": ""
 		  }
         ]
+      },
+	  {
+        "name": "Capitanes del Mundo",
+        "ico": "http://140.238.187.83/series/Capitanes_del_Mundo/portada.jpg",
+        "temporada": [
+          {
+			"name": "CAP 1 - Grandes esperanzas",
+			"ico": "http://140.238.187.83/series/Capitanes_del_Mundo/T1-C1.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMpJEnDZE1Vfm8FniREDkuRmFuGD9dl471dVlwNB8CBi2LbXWX8hbCCDQdf/PU810kA1TnmfQxm5o78DlY+q+/JJASYq5HiLSnczZmMVTl6PK",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "CAP 2 - ¿Dónde está Messi?",
+			"ico": "http://140.238.187.83/series/Capitanes_del_Mundo/T1-C2.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMpJEnDZE1Vfm8FniREDkuRmFuGD9dl471dVlwNB8CBi2LbXWX8hbCCDQdf/PU810kFQdr8Icp/ZSacWeWcmUmsGqlilq3H1+AFh/PVS8SpSi",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "CAP 3 - Contra todo pronóstico",
+			"ico": "http://140.238.187.83/series/Capitanes_del_Mundo/T1-C3.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMpJEnDZE1Vfm8FniREDkuRmFuGD9dl471dVlwNB8CBi2LbXWX8hbCCDQdf/PU810kEofKm09WWehwDl7Zmo3CH1wl6fjCs/z4OxvhX6J4dqT",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "CAP 4 - Más dura es la caída",
+			"ico": "http://140.238.187.83/series/Capitanes_del_Mundo/T1-C4.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMpJEnDZE1Vfm8FniREDkuRmFuGD9dl471dVlwNB8CBi2LbXWX8hbCCDQdf/PU810kIBfTrjsL9LZmpgURZB1slFwigS41QnymxFd7qUOfy94",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "CAP 5 - Juegos mentales",
+			"ico": "http://140.238.187.83/series/Capitanes_del_Mundo/T1-C5.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMpJEnDZE1Vfm8FniREDkuRmFuGD9dl471dVlwNB8CBi2LbXWX8hbCCDQdf/PU810kBchx/cJHmUzh2ux9+crAbq9HexK8qz37LHPkDG5Tm36",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		  {
+			"name": "CAP 6 - El más grande",
+			"ico": "http://140.238.187.83/series/Capitanes_del_Mundo/T1-C6.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMpJEnDZE1Vfm8FniREDkuRmFuGD9dl471dVlwNB8CBi2LbXWX8hbCCDQdf/PU810kGlmvyWQXheg3La0zut3iJUMT/eiGJ6IgkOHp/PnrntH",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  }
+        ]
       }
     ]
   }  
