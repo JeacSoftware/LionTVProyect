@@ -4,6 +4,13 @@
         "mode": false,
         "lista": [
 		   {
+			"name": "Muchachos - La Pelicula de la Gente (1080p)",
+			"ico": "http://140.238.187.83/Peliculas/Muchachos_La_Pelicula_de_la_Gente/muchachos.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMgJra+5c2QNLvwKS4eKMEoYXswS0q4Y00VYVlqbgr/cP8E4wXMWl09eLqscPyUrHsL9GTK/ZJOaBnpDYKKksEfAv+dyUK+OgNQI1GwztOljf",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		   {
 			"name": "El justiciero: Capítulo final (2023)",
 			"ico": "https://bajalogratis.com/wp-content/uploads/2023/11/El_justiciero_Capaitulo_final.jpg",
 			"uri": "YrhWVIy2QJe9/4udIN2k6P8INCfLN8zoJbeX7l5k9pcr1baF4joieJEjtImAoHO2ezHo65ytktemDORnBkQSag==",
@@ -1396,6 +1403,13 @@
         "name": "PELICULAS ARGENTINAS",
         "mode": false,
         "lista": [
+		  {
+			"name": "Muchachos - La Pelicula de la Gente (1080p)",
+			"ico": "http://140.238.187.83/Peliculas/Muchachos_La_Pelicula_de_la_Gente/muchachos.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMgJra+5c2QNLvwKS4eKMEoYXswS0q4Y00VYVlqbgr/cP8E4wXMWl09eLqscPyUrHsL9GTK/ZJOaBnpDYKKksEfAv+dyUK+OgNQI1GwztOljf",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
 		  {
 			"name": "Mienteme",
 			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s3NoPF6LAKDl3KUGkZsYPX9ionc.jpg",
