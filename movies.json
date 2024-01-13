@@ -4,6 +4,13 @@
         "mode": false,
         "lista": [
 		   {
+			"name": "Elijo Creer - El Camino del Campeon",
+			"ico": "http://140.238.187.83/Peliculas/elijocreer/elijocreer.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMgJra+5c2QNLvwKS4eKMEoYVbXqr0V87eDBp/jcZDBWKLttipQV+sNiOrp9UzXdIjQ==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
+		   {
 			"name": "Muchachos - La Pelicula de la Gente (1080p)",
 			"ico": "http://140.238.187.83/Peliculas/Muchachos_La_Pelicula_de_la_Gente/muchachos.jpg",
 			"uri": "NXErVcn+ense8n8nfwOcMgJra+5c2QNLvwKS4eKMEoYXswS0q4Y00VYVlqbgr/cP8E4wXMWl09eLqscPyUrHsL9GTK/ZJOaBnpDYKKksEfDFWiSkfqZ55iD4M5DxSKtL",
@@ -1417,6 +1424,13 @@
         "name": "PELICULAS ARGENTINAS",
         "mode": false,
         "lista": [
+		  {
+			"name": "Elijo Creer - El Camino del Campeon",
+			"ico": "http://140.238.187.83/Peliculas/elijocreer/elijocreer.jpg",
+			"uri": "NXErVcn+ense8n8nfwOcMgJra+5c2QNLvwKS4eKMEoYVbXqr0V87eDBp/jcZDBWKLttipQV+sNiOrp9UzXdIjQ==",
+			"drm_scheme": "",
+			"drm_license_url": ""
+		  },
 		  {
 			"name": "Muchachos - La Pelicula de la Gente (1080p)",
 			"ico": "http://140.238.187.83/Peliculas/Muchachos_La_Pelicula_de_la_Gente/muchachos.jpg",
