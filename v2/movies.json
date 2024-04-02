@@ -110,7 +110,7 @@
 		  {
 			"name": "Código 8: Renegados (Parte II) (2024)",
 			"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b00zs9USt7Qwd1po8Dm5tt0JUU9.jpg",
-			"uri": "Vc4y7i1lWOOo/XcuYNv0gpjnWtZzHKpfAN0Lkzt1Au3dsxpzQRppy/rDYIGBcgDR63wrl4x3aMJ+4Ce7Hod3G5skrjNaM1wcuBH0z6eIM0o=",
+			"uri": "Vc4y7i1lWOOo/XcuYNv0gpjnWtZzHKpfAN0Lkzt1Au3gv/NEs4ndgF2pEycKKI4DWddae3CZWmPnZOegbrqwzZJm5ozCotOMs9R6LYo3vnc=",
 			"drm_scheme": "",
 			"drm_license_url": "",
 			"prot": null
@@ -372,7 +372,7 @@
 			  {
 				"name": "Muchachos 1080P (2023)",
 				"ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4lb7Lpwzu908fbph9enKN0axiYy.jpg",
-				"uri": "Vc4y7i1lWOOo/XcuYNv0gpjnWtZzHKpfAN0Lkzt1Au36Zvn8u4X5ruJEzFjCMtvpspCCoecyobgtXJd611fPcaISGdifNxLwXlAW/Ng4Lfd5Pp6qAIGaC9nQ0k3AChsr",
+				"uri": "Vc4y7i1lWOOo/XcuYNv0gpjnWtZzHKpfAN0Lkzt1Au0MJAIV9q+mjJslKPNHHSL9eur+l2NCRaUKzHoadNw137TCeeN/rxHcxdvZVEOjALDocBqd9mzYmJr5ROQMCpO/",
 				"drm_scheme": "",
 				"drm_license_url": "",
 				"prot": null
@@ -698,11 +698,11 @@
 				"prot": null
 			  },
 			  {
-				"name": "RAPIDOS Y FURIOSOS X",
-				"ico": "https://panelssh.com.ar/ImgPelis/rapidoyfuriosox.jpg",
-				"uri": "W5wygocde+z54mBB0eT2iAI4Q/fnYPf4FUlYZ+ttUO+3H55tAzq3liTLd6LFfZ7Z2bWD7hmzki3qOLtezygDYTPkapZfz+NkFAzzXbhXgEtVekhBKLTIAKnB2eMsBWg1Y/6cDVY7tiEqXiCOZ6YFLsWFHGR0WFZCTe/2GIEetSjcrzLM9C8HGhM1IAfm7Flg",
-				"drm_scheme": "ClearKey",
-				"drm_license_url": "QedwOarJYKHbtkf8orNQl54gpfiHePkREkB8HF7gJ8zj3+fjk4D4neT1v6czJ52Z",
+				"name": "Rápidos y furiosos X (2023)",
+				"ico": "https://hackstore.rs/wp-content/uploads/2023/06/rapidos-y-furiosso-X-200x300.jpg",
+				"uri": "Vc4y7i1lWOOo/XcuYNv0gpjnWtZzHKpfAN0Lkzt1Au1rzvuZ+ag8P4YAl6k/7EKrWX48CX2Sbg5Qg7A+9SccCw==",
+				"drm_scheme": "",
+				"drm_license_url": "",
 				"prot": null
 			  },
 			  {
@@ -4224,6 +4224,30 @@
       "mode": false,
       "lista": [
 		  {
+			"name": "Leon Peleador Sin Ley",
+			"ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY03MRwqDYEHa68HGazQDubVGyzbrHwWUEmIdiuFqYVgt6-HeB",
+			"uri": "Vc4y7i1lWOOo/XcuYNv0gpjnWtZzHKpfAN0Lkzt1Au0D4DgaCUnXIe/5SlI50J51B054DWpP4dsYveD2hIy9/d8ABiNQNyhB3yd2+TAyW8c=",
+			"drm_scheme": "",
+			"drm_license_url": "",
+			"prot": null
+		  },
+		  {
+			"name": "El Tirador",
+			"ico": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTj9GmiMagSUrLGqmYKEFBWIGL2BgunZQ5heBo8kCCNLkTSgJuh",
+			"uri": "Vc4y7i1lWOOo/XcuYNv0gpjnWtZzHKpfAN0Lkzt1Au0G+56qWF+1QAJzdKKfsdFxjJfNI83ksZpGmyELKTzR8Q==",
+			"drm_scheme": "",
+			"drm_license_url": "",
+			"prot": null
+		  },
+		  {
+			"name": "Una Pareja Explosiva",
+			"ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGXM-v32axhNmpks4NzXPpm5gpyJxxoEnLckUZ3g4mO59nXDX",
+			"uri": "Vc4y7i1lWOOo/XcuYNv0gpjnWtZzHKpfAN0Lkzt1Au0JGXKUVdiN6WvoEGXTsTEsDsZR8gaDkuuPUREsWQu5Yw==",
+			"drm_scheme": "",
+			"drm_license_url": "",
+			"prot": null
+		  },
+		  {
 			"name": "El Señor de la Guerra",
 			"ico": "https://hackstore.rs/wp-content/uploads/2022/08/1Z4mE3Ue4VegboGrjw5VgNFAk1l-211x300.jpg",
 			"uri": "Vc4y7i1lWOOo/XcuYNv0gpjnWtZzHKpfAN0Lkzt1Au3Ku/JHZDWIvujdgqul7C2d",
@@ -5434,7 +5458,7 @@
 		  {
 			"name": "IP MAN 2022",
 			"ico": "https://netnaija.xyz/wp-content/uploads/2022/06/Ip-Man-The-Awakening-2022-download-NetNaija.xyz_.jpg",
-			"uri": "h+w/TiHb2C6JL7T4JNx4PogX9QXeXT7iYmfyKgezb7FRrf1C72lPmqWh8qpo7ihYboucIUDnbdWXmb0gE1Sf8RjRY2shnOkjrMcai/vyo1hgdWUlqmbPihnmP1DG9T3guAm8/+sHbMTVbAJqH3YkLWSFB7HpYQC6vIe6UPFhe0c=",
+			"uri": "h+w/TiHb2C6JL7T4JNx4PogX9QXeXT7iYmfyKgezb7FRrf1C72lPmqWh8qpo7ihYboucIUDnbdWXmb0gE1Sf8RjRY2shnOkjrMcai/vyo1hgdWUlqmbPihnmP1DG9T3gfRg8tSEeNVcvyrFJeca0sxBaVoCXsEpHNPnUUfndM8A=",
 			"drm_scheme": "",
 			"drm_license_url": "",
 			"prot": null
@@ -5656,17 +5680,17 @@
 		  {
 			"name": "EL EXORCISTA LA VERSION QUE NUNCA HAS VISTO",
 			"ico": "https://panelssh.com.ar/ImgPelis/elexorcista1.jpg",
-			"uri": "1qMiW7REPP2zhUy9x3d1Iinyb0anaqyuugFgc54kWflTdgf7aJAJf7lfytZ+F8opxhtBsz+BmEokXxb1xyH2ZNIbYG6SnKRJZ9Lhlv1Peb4sKDr5Lj6mcY7hFrfR2o46fP0eD5dS4/Lwtyta1H65FVELI8aFLKki0pR08FukfJjqysc5uoQasKN+XV6nSTrz",
+			"uri": "1qMiW7REPP2zhUy9x3d1Iinyb0anaqyuugFgc54kWflTdgf7aJAJf7lfytZ+F8opm4C2Gwx5+jUu52uJAhA2OL9izrGsWZHptkNY8qsCyevBkNo5tvS7F4H/no7IqGMkal9Zlpwa60wcuQCtbREtOw2jnQMAdy1Kfp+HdqzWzhelt+wHumAGDq843lE9tCVA",
 			"drm_scheme": "ClearKey",
-			"drm_license_url": "QedwOarJYKHbtkf8orNQl54gpfiHePkREkB8HF7gJ8zKge4d1Bdxa3A+QAWGHSZ8j041fqMCAroCI1nyaUzhCw==",
+			"drm_license_url": "u6dfGy9BDXPxjwZTvLeHcpn9unSaSBR3YsuFtKvq/8/kgDJxfka9xMCWvuoETrZd",
 			"prot": null
 		  },
 		  {
 			"name": "EL EXORCISTA DEL PAPA",
 			"ico": "https://panelssh.com.ar/ImgPelis/elexorcistadelpapa.jpg",
-			"uri": "1qMiW7REPP2zhUy9x3d1Iinyb0anaqyuugFgc54kWflTdgf7aJAJf7lfytZ+F8op7Y1fWEXsJR6giS3DwtvWfaV54klAGCzl0MPZK0YMsM3ef9MaAPtYfuzy5OoTpdh/0Qoqb/wXwlQ37kDWJBiSrMx1F8tskI4cWGJrcmTpGgHFAk04V1mlBaglnHcOLhG7",
+			"uri": "1qMiW7REPP2zhUy9x3d1Iinyb0anaqyuugFgc54kWflTdgf7aJAJf7lfytZ+F8opL9Kj7grW920Uc6DHNiF+0DJWuijDhDW6dI9YF818shlR6cDvdxRhitv53xPDe44KMomILqHlPXjIhRxf298D5ymt07vCsfIP8/VQ2/rkDLH3LOk7eZgQq+8t24Ce9u/2",
 			"drm_scheme": "ClearKey",
-			"drm_license_url": "QedwOarJYKHbtkf8orNQl54gpfiHePkREkB8HF7gJ8yT0d9IAS8lOlDKc+rJT9SdmHPZC2MjSmWYnmnE2PLqsQ==",
+			"drm_license_url": "u6dfGy9BDXPxjwZTvLeHcpn9unSaSBR3YsuFtKvq/8/oAYZoejucDYTBbYKXuYgO",
 			"prot": null
 		  },
 		  {
@@ -6788,7 +6812,7 @@
 		  {
 			"name": "Rapidos y Furiosos 4 (2009)",
 			"ico": "https://hackstore.rs/wp-content/uploads/2023/02/vvewollXh3k2G8ruTYhhBTqZH19-200x300.jpg",
-			"uri": "Vc4y7i1lWOOo/XcuYNv0gpjnWtZzHKpfAN0Lkzt1Au0YTEyEBGr+5Y+ahOSDIBRSbSFvmFQR8WHPoXG7+gxo/Q==",
+			"uri": "Vc4y7i1lWOOo/XcuYNv0gpjnWtZzHKpfAN0Lkzt1Au1rzvuZ+ag8P4YAl6k/7EKrUQYIJAstEotgOqI/tDTMCw==",
 			"drm_scheme": "",
 			"drm_license_url": "",
 			"prot": null
@@ -6804,7 +6828,7 @@
 		  {
 			"name": "Rapidos y furiosos 6 (2013)",
 			"ico": "https://hackstore.rs/wp-content/uploads/2023/02/6zUkjB5OtiFhN2DiqdT1IllNJTa-200x300.jpg",
-			"uri": "Vc4y7i1lWOOo/XcuYNv0gpjnWtZzHKpfAN0Lkzt1Au0YTEyEBGr+5Y+ahOSDIBRSCXGNHQeGGRMAJlgY5qwADA==",
+			"uri": "Vc4y7i1lWOOo/XcuYNv0gpjnWtZzHKpfAN0Lkzt1Au1rzvuZ+ag8P4YAl6k/7EKrcISWDFY0OGLca9/umgwSSg==",
 			"drm_scheme": "",
 			"drm_license_url": "",
 			"prot": null
@@ -6812,7 +6836,7 @@
 		  {
 			"name": "Rapidos y Furiosos 7 (2015)",
 			"ico": "https://hackstore.rs/wp-content/uploads/2023/02/yWG5W4tKCQweHEdnKV4YEvqOBGx-200x300.jpg",
-			"uri": "Vc4y7i1lWOOo/XcuYNv0gpjnWtZzHKpfAN0Lkzt1Au0YTEyEBGr+5Y+ahOSDIBRSuymIL74p/0Q7Ysr++jqj1A==",
+			"uri": "Vc4y7i1lWOOo/XcuYNv0gpjnWtZzHKpfAN0Lkzt1Au1rzvuZ+ag8P4YAl6k/7EKry/0Eh88iR4RKNBCYXZQs9Q==",
 			"drm_scheme": "",
 			"drm_license_url": "",
 			"prot": null
@@ -6836,7 +6860,7 @@
 		  {
 			"name": "Rapidos y furiosos 9 (2021)",
 			"ico": "https://hackstore.rs/wp-content/uploads/2021/09/TX1T3c3CDBN0y8iDNvlQbtiA5Z-202x300.jpg",
-			"uri": "Vc4y7i1lWOOo/XcuYNv0gpjnWtZzHKpfAN0Lkzt1Au0YTEyEBGr+5Y+ahOSDIBRSAIYfMeHz0oQWlJn0xZsFrQ==",
+			"uri": "Vc4y7i1lWOOo/XcuYNv0gpjnWtZzHKpfAN0Lkzt1Au1rzvuZ+ag8P4YAl6k/7EKrVXm45FFE1r/XNSj6Py45RA==",
 			"drm_scheme": "",
 			"drm_license_url": "",
 			"prot": null
@@ -6844,7 +6868,7 @@
 		  {
 			"name": "Rápidos y furiosos X (2023)",
 			"ico": "https://hackstore.rs/wp-content/uploads/2023/06/rapidos-y-furiosso-X-200x300.jpg",
-			"uri": "Vc4y7i1lWOOo/XcuYNv0gpjnWtZzHKpfAN0Lkzt1Au0YTEyEBGr+5Y+ahOSDIBRSzz34wfSUWYM+wMRRyMOhqg==",
+			"uri": "Vc4y7i1lWOOo/XcuYNv0gpjnWtZzHKpfAN0Lkzt1Au1rzvuZ+ag8P4YAl6k/7EKrWX48CX2Sbg5Qg7A+9SccCw==",
 			"drm_scheme": "",
 			"drm_license_url": "",
 			"prot": null
@@ -7156,65 +7180,65 @@
 		  {
 			"name": "HARRY POTTER Y LA PIEDRA FILOSOFAL",
 			"ico": "https://panelssh.com.ar/ImgPelis/harry1.jpg",
-			"uri": "1qMiW7REPP2zhUy9x3d1Iinyb0anaqyuugFgc54kWflTdgf7aJAJf7lfytZ+F8opPH1DAwxYcrY2AFDy8tL8k4UB1MzFiNUzfBkxm0cI3TeKklAxVQN54XlFySPOkTmhZi2LIox+q3+sPs3uIkdaCsZqaRYVxkSCvfeT+sZvhPt79P1pYdwskNSxemduKC/V",
+			"uri": "1qMiW7REPP2zhUy9x3d1Iinyb0anaqyuugFgc54kWflTdgf7aJAJf7lfytZ+F8opKuBIk54cHAAb9NuG80o/JpfiVhiWHLTugbWIyt3JFmP/3PJoDIBNvTgWD5gNe+EAPYEkBUhhxH/3G2KzM2QwYAQug1PPBJeo4NzeplatgdiqSbhvzr9Stg3wPXPJMBVJ",
 			"drm_scheme": "ClearKey",
-			"drm_license_url": "QedwOarJYKHbtkf8orNQl0CdKom3k95BanErG7L9IFq4/m02AH1EDi9GW0Gpw+Cj",
+			"drm_license_url": "u6dfGy9BDXPxjwZTvLeHcldBPFtKF7MyV5gAZSQhMbjxv7SBKV4lpNAmwOVIAjQe",
 			"prot": null
 		  },
 		  {
 			"name": "HARRY POTTER Y LA CAMARA SECRETA",
 			"ico": "https://panelssh.com.ar/ImgPelis/harry2.jpg",
-			"uri": "1qMiW7REPP2zhUy9x3d1Iinyb0anaqyuugFgc54kWflTdgf7aJAJf7lfytZ+F8opQmifHIw2uT9sI0DwKuuLB13bZNUao02yYTyQImXglZQc5nO//9GTLhXNV8WrJTMR0T7IOtzqDCJs54i6yfBF5+xI5TQud5QVfrEnS16LocgX0BAu+i82GFiAtdNPS+UB",
+			"uri": "1qMiW7REPP2zhUy9x3d1Iinyb0anaqyuugFgc54kWflTdgf7aJAJf7lfytZ+F8opKj1Tu3laBszC2/0/M8Y4cGiVyazr6+khZh0mZPlTGlDfRqiwX4rB7gg8afW0X/mzFHmvbmx+9NE8TfGJchRd+QPAr+3zrnkQwQ2XQ8svySCMf1mRFF/HmYI0ryBWZsXV",
 			"drm_scheme": "ClearKey",
-			"drm_license_url": "QedwOarJYKHbtkf8orNQl0CdKom3k95BanErG7L9IFpl7T5DMl11ThDNnmWGnzjd",
+			"drm_license_url": "u6dfGy9BDXPxjwZTvLeHcldBPFtKF7MyV5gAZSQhMbhHnJgVi8HVusWaKQrBm7OW",
 			"prot": null
 		  },
 		  {
 			"name": "HARRY POTTER Y EL PRISIONERO DE AZKABAN",
 			"ico": "https://panelssh.com.ar/ImgPelis/harry3.jpg",
-			"uri": "1qMiW7REPP2zhUy9x3d1Iinyb0anaqyuugFgc54kWflTdgf7aJAJf7lfytZ+F8op3E56DsA9tBv0C7fONmDdqzCx0IwGUs4u4lV6O9HaxhL9LRDnyDRTYPHMytp0zx+gDi1iTwcGm2QQ+O3lm3ouJnpSWe+xgyUggU4qsKZ37jGJ6OxK9K2pUkJHzPji0I7o",
+			"uri": "1qMiW7REPP2zhUy9x3d1Iinyb0anaqyuugFgc54kWflTdgf7aJAJf7lfytZ+F8op1j/525nMZhOyjL/Z0aPym/qs20wfSQaMCy5nApNM/D87Z6g+KtLJlmxvuOg8n+ySBfd4boLTmsZniuCNagdIQXUrpI3L/Gt7m1o7HsLKPmEE4GufAV6E+4RoEivKXtSF",
 			"drm_scheme": "ClearKey",
-			"drm_license_url": "QedwOarJYKHbtkf8orNQl0CdKom3k95BanErG7L9IFqEiE8qHvi65gIAwhYZlfdu",
+			"drm_license_url": "u6dfGy9BDXPxjwZTvLeHcldBPFtKF7MyV5gAZSQhMbhPW9W624DhRmS/u9pjroox",
 			"prot": null
 		  },
 		  {
 			"name": "HARRY POTTER Y EL CALIZ DE FUEGO",
 			"ico": "https://panelssh.com.ar/ImgPelis/harry4.jpg",
-			"uri": "1qMiW7REPP2zhUy9x3d1Iinyb0anaqyuugFgc54kWflTdgf7aJAJf7lfytZ+F8op+9jSPhduuTWkqzPfYPfSG/Qjur5HVDkk1rQa59Be3NL5+nNP09Dw4Fkx6hGJwvlr8wDJaD5+bvYMUNbJ+rbMo2pX72QlXpJ47C9nT/tu14wG5b4C1n7ifhu6WNsabcnV",
+			"uri": "1qMiW7REPP2zhUy9x3d1Iinyb0anaqyuugFgc54kWflTdgf7aJAJf7lfytZ+F8opuGTb+KIodYVCv61qygthXofRIrSdNy1nbY8573jdT3Lv2lajRPiKSeooZtE9oKadpc0qLxKnn6Jg9qzPo4pbTw1gUIFsYlXvvYUb4Atw3BStAjrCk4qldNzCF9ud3nvY",
 			"drm_scheme": "ClearKey",
-			"drm_license_url": "QedwOarJYKHbtkf8orNQl0CdKom3k95BanErG7L9IFq5BHG2h7crU8lmQ6cL9sJi",
+			"drm_license_url": "u6dfGy9BDXPxjwZTvLeHcldBPFtKF7MyV5gAZSQhMbhBPBs5/DxzrTALEeiFioE0",
 			"prot": null
 		  },
 		  {
 			"name": "HARRY POTTER Y LA ORDEN DEL FENIX",
 			"ico": "https://panelssh.com.ar/ImgPelis/harry5.jpg",
-			"uri": "1qMiW7REPP2zhUy9x3d1Iinyb0anaqyuugFgc54kWflTdgf7aJAJf7lfytZ+F8opkUR9WFuH4CKlRkutwLqT5+HHj8s7IfnFhOINz1kLKma7ouDsE8EVj1a7GlasSkhwoEUvSVzueFB13uYMM4ySvpohMS/2zFZMI+0Zu7lhFex6/tr8Aw2A3YV89UyWhJhK",
+			"uri": "1qMiW7REPP2zhUy9x3d1Iinyb0anaqyuugFgc54kWflTdgf7aJAJf7lfytZ+F8oppJXjwQ74qL5/yXrtQikiXVcWLYapSNltZ8CJMgfAVxze0DygXAyfmNPYeQvvqbhzIGezgOnWK1rjdwiIwzK7DJC3pG6bD0bssD9fm62HrgLopYj5tLOfRxvSLER0R8dB",
 			"drm_scheme": "ClearKey",
-			"drm_license_url": "QedwOarJYKHbtkf8orNQl0CdKom3k95BanErG7L9IFpfxvs0e5j2xZDyUMbS/5hO",
+			"drm_license_url": "u6dfGy9BDXPxjwZTvLeHcldBPFtKF7MyV5gAZSQhMbirq7nAreSdUiWz6HF1LXQ0",
 			"prot": null
 		  },
 		  {
 			"name": "HARRY POTTER Y EL MISTERIO DEL PRINCIPE",
 			"ico": "https://panelssh.com.ar/ImgPelis/harry6.jpg",
-			"uri": "1qMiW7REPP2zhUy9x3d1Iinyb0anaqyuugFgc54kWflTdgf7aJAJf7lfytZ+F8opkUg012YVWHkKd+mPWvRoTu35pYysX+cO8Rl8OQaLyB/XYAvhWKHwB40Yp2x+mT0L7y2+wzBz8JBqpPHjbHL2mm815Z8tJmrwOuU6cxu1hjanKwjG070DYV6wfg+MHAkE",
+			"uri": "1qMiW7REPP2zhUy9x3d1Iinyb0anaqyuugFgc54kWflTdgf7aJAJf7lfytZ+F8opjSq334KdJV5SZpdGIee9l9MB0QbAn6KnlASXDOQyFEf/Qfscj7tXWJQ0QyZHzxANP9mq4gDDRq7LdNOjYqzbJjHC1BssvkMj2/JiN05V2TdIeN1Paflk+U3tFTJe+n5q",
 			"drm_scheme": "ClearKey",
-			"drm_license_url": "QedwOarJYKHbtkf8orNQl0CdKom3k95BanErG7L9IFpVeg2oTwp7MpKiaPpteEQ2",
+			"drm_license_url": "u6dfGy9BDXPxjwZTvLeHcldBPFtKF7MyV5gAZSQhMbhgyEcllHPjEhmLr5pm18wG",
 			"prot": null
 		  },
 		  {
 			"name": "HARRY POTTER Y LAS RELIQUIAS DE LA MUERTE P1",
 			"ico": "https://panelssh.com.ar/ImgPelis/harry7_parte1.jpg",
-			"uri": "1qMiW7REPP2zhUy9x3d1Iinyb0anaqyuugFgc54kWflTdgf7aJAJf7lfytZ+F8opiy6+M7Wszl03jHldmb3pG1SZ7PtoYqqeA+38mq6T/krr0lVdsxsr2417K7B1CN1enUwhwK7Nbpm6T6C+9TTNudSlPzpyMJKNraa8HtAqH/CEdP5D5njaOg1Ftn1UZKyF",
+			"uri": "1qMiW7REPP2zhUy9x3d1Iinyb0anaqyuugFgc54kWflTdgf7aJAJf7lfytZ+F8opT1M4VuLBcb1jdhwxI3O6jVXePmyXM8OyleP49F2YsXQBU0ovFVfvlnz/jSGZ5KFpBF/HmoO+GuF64o46WDesGZmCRJQYoAAXCl45aP61l1n/ymZbcPYPkp5yAo8fGnyo",
 			"drm_scheme": "ClearKey",
-			"drm_license_url": "QedwOarJYKHbtkf8orNQl0CdKom3k95BanErG7L9IForAVbMMYLKHRTF9v2oXsTG",
+			"drm_license_url": "u6dfGy9BDXPxjwZTvLeHcldBPFtKF7MyV5gAZSQhMbitZPdYGLKJ4a7kJOBbCOdi",
 			"prot": null
 		  },
 		  {
 			"name": "HARRY POTTER Y LAS RELIQUIAS DE LA MUERTE P2",
 			"ico": "https://panelssh.com.ar/ImgPelis/harry7_parte2.jpg",
-			"uri": "1qMiW7REPP2zhUy9x3d1Iinyb0anaqyuugFgc54kWflTdgf7aJAJf7lfytZ+F8opp5syqk8aKXE5jHed85howaywN0dhZXTDRxQ81uvEbnVe5tAdyHi7Izri+MEMj4n11IXuaC0J8JAwwlset/CNH36HITWje2aNwONjQyYOKp+ZtEBHEb9bNAjeHq5Kq1+j",
+			"uri": "1qMiW7REPP2zhUy9x3d1Iinyb0anaqyuugFgc54kWflTdgf7aJAJf7lfytZ+F8opMOslkSAJ+DntMYWidMl/VTLnQR7LvL0m1iQK+p7z5hTXgAk9tariZzSnlIFjQJJu6xmcCIjscw8p0Pw16pWXgoAon1lWCa0NFrcTVD+WwXuc2ilkc68LQRz2ASxVwfDh",
 			"drm_scheme": "ClearKey",
-			"drm_license_url": "QedwOarJYKHbtkf8orNQl0CdKom3k95BanErG7L9IFpReWpk8335WiFAKi3bFRwd",
+			"drm_license_url": "u6dfGy9BDXPxjwZTvLeHcldBPFtKF7MyV5gAZSQhMbgJHjlaQjN9BkDjhF+171tB",
 			"prot": null
 		  }
       ]
