@@ -686,6 +686,14 @@
 		"drm_scheme": "",
 		"drm_license_url": "",
 		"prot": "0"
+	  },
+	  {
+		"name": "DIRECTV SPORTS PLUS",
+		"ico": "https://greenbulltv.com.ar/tv/panel/img/DSportsMas.png",
+		"uri": "x38KtSZ/8ATwzaGRpjp1scC42oR3lD+FEdQ9ydiZ6vxruQcHBjC2SJz2yw+/Odn6icp2ry32KEYgbfC40DFPDw==",
+		"drm_scheme": "clearkey",
+		"drm_license_url": "",
+		"prot": "0"
 	  }
     ]
   },
