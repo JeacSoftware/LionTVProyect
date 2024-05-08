@@ -688,11 +688,107 @@
 		"prot": "0"
 	  },
 	  {
+		"name": "DTV 1 HD",
+		"ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+		"uri": "wpwm7pV8rYYnQQiEj46Becqa1VqVQ8EfTXp16aRDr6EERo67llaNUJBtpGTZJVt2Z5csfF+Sc0SAi94uoQTLLg==",
+		"drm_scheme": "",
+		"drm_license_url": "",
+		"prot": "0"
+	  },
+	  {
+		"name": "DTV 2 HD",
+		"ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+		"uri": "wpwm7pV8rYYnQQiEj46Becqa1VqVQ8EfTXp16aRDr6EERo67llaNUJBtpGTZJVt2YKLaYhJ2yYLdVoKXq8KrcQ==",
+		"drm_scheme": "",
+		"drm_license_url": "",
+		"prot": "0"
+	  },
+	  {
 		"name": "DIRECTV SPORTS PLUS",
 		"ico": "https://greenbulltv.com.ar/tv/panel/img/DSportsMas.png",
-		"uri": "x38KtSZ/8ATwzaGRpjp1scC42oR3lD+FEdQ9ydiZ6vxruQcHBjC2SJz2yw+/Odn6icp2ry32KEYgbfC40DFPDw==",
-		"drm_scheme": "ClearKey",
-		"drm_license_url": "u6dfGy9BDXPxjwZTvLeHcv0EwdR6diecD+NH4t1OKMiwZ9GiqdlXQuIf+H2516wP",
+		"uri": "wpwm7pV8rYYnQQiEj46Becqa1VqVQ8EfTXp16aRDr6EERo67llaNUJBtpGTZJVt26ju8vywjuw1pnTyNj4O2bA==",
+		"drm_scheme": "",
+		"drm_license_url": "",
+		"prot": "0"
+	  },
+	  {
+		"name": "ON DIRECTV HD",
+		"ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+		"uri": "wpwm7pV8rYYnQQiEj46Becqa1VqVQ8EfTXp16aRDr6EERo67llaNUJBtpGTZJVt2bEiguHmCPstyRagLiKj6MA==",
+		"drm_scheme": "",
+		"drm_license_url": "",
+		"prot": null
+	  },
+	  {
+		"name": "DTV FIGHT",
+		"ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+		"uri": "rOSmdlO4dkt4KEONK+ir7NfoLOU8DMIrPaDersvjZGInna3nvUh+QL4t8xYU/bZkyvtc4g+k2aBtShHAJpRC3Eyq1Mhwf7zaXQ9QUdOjgfM=",
+		"drm_scheme": "",
+		"drm_license_url": "",
+		"prot": "0"
+	  },
+	  {
+		"name": "DTV ",
+		"ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+		"uri": "wpwm7pV8rYYnQQiEj46Becqa1VqVQ8EfTXp16aRDr6EERo67llaNUJBtpGTZJVt2U3d2bZNEfnbrXTJ4piaCoA==",
+		"drm_scheme": "",
+		"drm_license_url": "",
+		"prot": "0"
+	  },
+	  {
+		"name": "DTV Plus ",
+		"ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+		"uri": "mW70MlLJoz0ko9/W37Lq1nk+lvjq369PeO/J8qKd7LzTsjCT+OELYucPanPTHkrDGpXcCKcRPO8nXQ6TNpqQaIDaktYtBgeUGVjRrBWYVLE=",
+		"drm_scheme": "",
+		"drm_license_url": "",
+		"prot": "0"
+	  },
+	  {
+		"name": "DTV1",
+		"ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+		"uri": "rOSmdlO4dkt4KEONK+ir7NfoLOU8DMIrPaDersvjZGInna3nvUh+QL4t8xYU/bZk09s2aJIku7bOS4J4OT4wPvG8gANSLFbYEjj/YOq5UdQ=",
+		"drm_scheme": "",
+		"drm_license_url": "",
+		"prot": "0"
+	  },
+	  {
+		"name": "DTV2",
+		"ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+		"uri": "rOSmdlO4dkt4KEONK+ir7NfoLOU8DMIrPaDersvjZGInna3nvUh+QL4t8xYU/bZkTFXEM+xcJRDDT0q95xdr/a+043j2sqgiFT+nQ9zVYNI=",
+		"drm_scheme": "",
+		"drm_license_url": "",
+		"prot": "0"
+	  },
+	  {
+		"name": "DTV3",
+		"ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+		"uri": "rOSmdlO4dkt4KEONK+ir7NfoLOU8DMIrPaDersvjZGInna3nvUh+QL4t8xYU/bZkwpCM1G1CyYcatNMB/h9Qs6IbSEMscblnqhvON69JPC4=",
+		"drm_scheme": "",
+		"drm_license_url": "",
+		"prot": "0"
+	  },
+	  {
+		"name": "DTV4",
+		"ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+		"uri": "rOSmdlO4dkt4KEONK+ir7NfoLOU8DMIrPaDersvjZGInna3nvUh+QL4t8xYU/bZkcFWzex55oM31BOdAB653H9qKV7VzTLXyho6KEM6KY8M=",
+		"drm_scheme": "",
+		"drm_license_url": "",
+		"prot": "0"
+	  },
+	  {
+		"name": "DTV5",
+		"ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+		"uri": "rOSmdlO4dkt4KEONK+ir7NfoLOU8DMIrPaDersvjZGInna3nvUh+QL4t8xYU/bZkSqhG+scKOPeub9acdOUfqIdi9gy6vFIGBoegNct3nyU=",
+		"drm_scheme": "",
+		"drm_license_url": "",
+		"prot": "0"
+	  },
+	  {
+		"name": "DTV6",
+		"ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+		"uri": "rOSmdlO4dkt4KEONK+ir7NfoLOU8DMIrPaDersvjZGInna3nvUh+QL4t8xYU/bZk6zqyUaSf4C//ADkuHtNlbb56TTlvwYKGHUM1uvcTWMo=",
+		"drm_scheme": "",
+		"drm_license_url": "",
 		"prot": "0"
 	  }
     ]
