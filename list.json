@@ -17,7 +17,9 @@
 		"uri": "p9p74gstbPOrKPxdqNwsBgydtNUSqjsXzQvi8M96QDqI+Lbkrg/WBXkQjL5Zrr1ThjhhRC3jNB+Cc7nFPUj9Vxyz4uX/3armAbNNyT4LRExoZT8ydBJH0G4tBUQ8mOs4",
 		"drm_scheme": "ClearKey",
 		"drm_license_url": "u6dfGy9BDXPxjwZTvLeHcrdTTA7n2x/vfhN6ZUAX85yTL+Kz97nA/u+TEJJIXWTF",
-		"prot": "0"
+		"prot": "0",
+		"origin": "https://web.app.flow.com.ar",
+		"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 	  },
 	  {
 		"name": "CANAL 9",
@@ -49,7 +51,9 @@
 		"uri": "p9p74gstbPOrKPxdqNwsBgydtNUSqjsXzQvi8M96QDrolEmmBSVYcn7/QIr+BDfOaSdx8NXiRqpXvxF87uNdZdZ3xctJyfvRtvbOIIXdX8ONCuSPzuCB7snW5qcxOESp",
 		"drm_scheme": "ClearKey",
 		"drm_license_url": "u6dfGy9BDXPxjwZTvLeHcgp0cwXV7VKOvqWNLTLciLL4TvPOHQ0KDnrH9BE46D+v",
-		"prot": "0"
+		"prot": "0",
+		"origin": "https://web.app.flow.com.ar",
+		"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 	  },
 	  {
 		"name": "A24",
