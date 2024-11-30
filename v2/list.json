@@ -15,8 +15,8 @@
 		"name": "AMERICA TV - T",
 		"ico": "https://ztv.com.ar/Img2/americatv.png",
 		"uri": "p9p74gstbPOrKPxdqNwsBgydtNUSqjsXzQvi8M96QDqI+Lbkrg/WBXkQjL5Zrr1ThjhhRC3jNB+Cc7nFPUj9V2fshuH2AKPansS/zx/6MBx1ijYT82ThGGsSMCLIqsGw",
-		"drm_scheme": "ClearKey",
-		"drm_license_url": "u6dfGy9BDXPxjwZTvLeHcrdTTA7n2x/vfhN6ZUAX85yTL+Kz97nA/u+TEJJIXWTF",
+		"drm_scheme": "clearkey",
+		"drm_license_url": "+iJjqURewad4IJan98Hi4tTYIROwIqTgarcjPvSmJYYRTLcuqUgXM9slMgQooe0i",
 		"prot": "0",
 		"origin": "https://web.app.flow.com.ar",
 		"user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
