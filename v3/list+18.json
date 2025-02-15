@@ -476,33 +476,13 @@
     "user_agent": ""
   },
   {
-	  "name": "GRAN HERMANO",
-    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "zZSWJf+GNBsxv77ih5WcEPh4In0EoE8TTMejukX5+5f+0G79SJwPYCzKR+h/HlCKmqZy+eawh8rZqFkgcFKxgiK+aqyTFqp4RB/504W5NRw=",
-    "drm_scheme": "",
-    "drm_license_url": "",
-    "prot": "0",
-	"origin": "",
-    "user_agent": ""
-  },
-  {
-    "name": "FS PREMIUM",
-    "ico": "https://ztv.com.ar/imagex/fs.png",
-    "uri": "I3q7/hTu9CvrAf6c2QBPiJ6/F7YU4n3g0BtiomDQE7cM37dJkAb7rxRtVgPb9hfdXAfyiIP5+if0G4oFnaM4zqoPyyWZ2GQ0JJ1AYrj5k2Q7j1LsE36tSQjmY6aYiDy4Gjznf+nuUyndlk2XUFH+OHKN1irXKVCvAOyjFENZUqY=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "OMlNdFJoDdeI2eBpnJNWPcX8td59ShQEZXVs1d42xA+Iw1OQnWnL8nHfr+7/9xM+v+f0hlISpnS+XGygWQCIZQ5WJ1Ng3OxabWNdc8PXY9qOJYTC0nyYn1/pZJQbaIrK+iI5ci+l1IZIxHcB9b9bdsVJ2QlVEBKLrPAe6CUrGx29LgYSZ3mU2j4eBTFQhuAXscNiPpZhzni9Dp09c4S2Kw==",
-    "prot": "0",
-	"origin": "",
-    "user_agent": ""
-  },
-  {
     "name": "DAZN F1",
     "ico": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png",
     "uri": "OwXY2KGh0dI7m1StXppeHMyTRX2DQTEMWJ+xIBuattSAGve6zMWJw2bCVt6lbwyHqKwp4GD5/6+cybCJXVZ+y50RlrwajSXgN9gjm/MdoBtHDH8i2oaRieS/Nhnj+Mk/zl+WwLbjtpVFvpG+269SxnG9VKxrgv8CErgwnPD55sE=",
     "drm_scheme": "clearkey",
     "drm_license_url": "OMlNdFJoDdeI2eBpnJNWPcX8td59ShQEZXVs1d42xA+Iw1OQnWnL8nHfr+7/9xM+v+f0hlISpnS+XGygWQCIZeCpJ/kgOYfXvZlhZsyvr8jukZeZvF9EHnRfzrAlP3QLl2Xnt/483FBxaSft6drrDenyk9znX5p1Y/idKDpYU9S8KhHrVCSgTSzlfiPTd1KtkVvkHM1E2AdJ4iVHksF2Bw==",
     "prot": "0",
-	"origin": "https://web.app.flow.com.ar",
+    "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
