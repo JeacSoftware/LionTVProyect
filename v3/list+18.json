@@ -888,6 +888,16 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
 	    {
+    "name": "ZOOMOO",
+    "ico": "https://ztv.com.ar/Img2/zoomoo.png",
+    "uri": "qhaBJi5t+dh1Srdc0ibQhq0Zz+rT31MO4gwUfj5hEhjkxNRVDFntAqxtpJJnujtgDHWBAK80R2Wfm5mW9ltvmhWQ662cQohjhW6R7wSohXw=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "+iJjqURewad4IJan98Hi4tbRe5Rubsi8OeG8Do+IwjufzlfqYrUZQPPiFMpOxlt5",
+	"prot": "0",
+    "referer": "https://player.sensa.com.ar/",
+    "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+  },
+	    {
     "name": "PLIM PLIM TV",
     "ico": "https://liontv.com.ar/Img2/plimplim_tv.png",
     "uri": "p9p74gstbPOrKPxdqNwsBgydtNUSqjsXzQvi8M96QDq3KoISfNl+qFk7SNoTc3i30sxNlOA2iI4rHTo6KfEtk5YiG6rzdHFHF52lXMFXfCvqi5cejmQkC/kBNoo4dcrL",
