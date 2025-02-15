@@ -877,36 +877,6 @@
     "name": "CANALES INFANTILES",
     "mode": false,
     "lista": [
-	{
-		"name": "KIDOO",
-    "ico": "https://ztv.com.ar/Img2/kidoo.png",
-    "uri": "1qMiW7REPP2zhUy9x3d1Ik6wvLV492vmbPHrB3j9b0RM/S1+E+pM93EGv9YcYera5iA17MbW0+WbR5bVn5gcxhbtlXCrqTBLa4Ww6azf9nY=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "+iJjqURewad4IJan98Hi4so7q3ObpWLMggIcnfFaqEGUaaWE1lUKuRGjDWBr4plZ",
-    "prot": "0",
-	 "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-	},
-	   {
-    "name": "ZOOMOO",
-    "ico": "https://ztv.com.ar/Img2/zoomoo.png",
-    "uri": "qhaBJi5t+dh1Srdc0ibQhq0Zz+rT31MO4gwUfj5hEhjkxNRVDFntAqxtpJJnujtgDHWBAK80R2Wfm5mW9ltvmhWQ662cQohjhW6R7wSohXw=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "+iJjqURewad4IJan98Hi4tbRe5Rubsi8OeG8Do+IwjufzlfqYrUZQPPiFMpOxlt5",
-	"prot": "0",
-    "origin": "https://player.sensa.com.ar/",
-    "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "CANAL INFALTIL",
-    "ico": "https://ztv.com.ar/Img2/canal_infantil.png",
-    "uri": "qhaBJi5t+dh1Srdc0ibQhq0Zz+rT31MO4gwUfj5hEhhRd6JpBovZsKqE1ykP6XQcsYxJC3GsfpzCG119UmMMzN01A/Wnnk3eYJ2rgXXqDvUlKQJM5FIsNVXRbd4amDee",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "+iJjqURewad4IJan98Hi4kS61/Y/x/h4+RWo6uBaA5WoNuYlS8rOsy5Q/JbWjkcIbsH/PFGQTQmtAtSqrbrd3Q==",
-    "origin": "https://player.sensa.com.ar/",
-    "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
-	"prot": "0",  
-  },
   {
     "name": "PLIM PLIM TV",
     "ico": "https://liontv.com.ar/Img2/plimplim_tv.png",
