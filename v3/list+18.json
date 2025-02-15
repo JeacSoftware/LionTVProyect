@@ -898,6 +898,16 @@
     "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
   },
 	    {
+    "name": "CANAL INFALTIL",
+    "ico": "https://ztv.com.ar/Img2/canal_infantil.png",
+    "uri": "qhaBJi5t+dh1Srdc0ibQhq0Zz+rT31MO4gwUfj5hEhhRd6JpBovZsKqE1ykP6XQcsYxJC3GsfpzCG119UmMMzN01A/Wnnk3eYJ2rgXXqDvUlKQJM5FIsNVXRbd4amDee",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "+iJjqURewad4IJan98Hi4kS61/Y/x/h4+RWo6uBaA5WoNuYlS8rOsy5Q/JbWjkcIbsH/PFGQTQmtAtSqrbrd3Q==",
+    "referer": "https://player.sensa.com.ar/",
+    "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+	"prot": "0"
+  }
+	    {
     "name": "PLIM PLIM TV",
     "ico": "https://liontv.com.ar/Img2/plimplim_tv.png",
     "uri": "p9p74gstbPOrKPxdqNwsBgydtNUSqjsXzQvi8M96QDq3KoISfNl+qFk7SNoTc3i30sxNlOA2iI4rHTo6KfEtk5YiG6rzdHFHF52lXMFXfCvqi5cejmQkC/kBNoo4dcrL",
