@@ -455,7 +455,17 @@
     "name": "EVENTOS",
     "mode": false,
     "lista": [
-	  {
+    {
+	  "name": "GRAN HERMANO",
+    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
+    "uri": "zZSWJf+GNBsxv77ih5WcEPh4In0EoE8TTMejukX5+5f+0G79SJwPYCzKR+h/HlCKmqZy+eawh8rZqFkgcFKxgiK+aqyTFqp4RB/504W5NRw=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": "0",
+	"origin": "",
+    "user_agent": ""
+  },
+ {
     "name": "NOCHE DE EVENTOS UFC",
     "ico": "https://liontv.com.ar/Img2/EVENTOS.png",
     "uri": "I3q7/hTu9CvrAf6c2QBPiJ6/F7YU4n3g0BtiomDQE7cM37dJkAb7rxRtVgPb9hfdXAfyiIP5+if0G4oFnaM4zqoPyyWZ2GQ0JJ1AYrj5k2Q7j1LsE36tSQjmY6aYiDy4Gjznf+nuUyndlk2XUFH+OHKN1irXKVCvAOyjFENZUqY=",
