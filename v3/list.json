@@ -455,7 +455,37 @@
     "name": "EVENTOS",
     "mode": false,
     "lista": [
-	  {
+	{
+	  "name": "GRAN HERMANO",
+    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
+    "uri": "zZSWJf+GNBsxv77ih5WcEPh4In0EoE8TTMejukX5+5f+0G79SJwPYCzKR+h/HlCKmqZy+eawh8rZqFkgcFKxgiK+aqyTFqp4RB/504W5NRw=",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": "0",
+	"origin": "",
+    "user_agent": ""
+  },
+{
+	"name": "INTERN MIAMI (MLS)",
+    "ico": "https://i.postimg.cc/bwHJK8GQ/mls.png",
+    "uri": "lvzDdLmuXAnkRFAkOEjEHGJj1L7VsnGIASVM797STM0uXU38Daz9PeRUTz73DzOG/N2akGE5NEXzXYWtKzIosg==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+    "prot": "0",
+	"origin": "",
+    "user_agent": ""
+  },
+{
+    "name": "FS PREMIUM",
+    "ico": "https://ztv.com.ar/imagex/fs.png",
+    "uri": "I3q7/hTu9CvrAf6c2QBPiJ6/F7YU4n3g0BtiomDQE7cM37dJkAb7rxRtVgPb9hfdXAfyiIP5+if0G4oFnaM4zqoPyyWZ2GQ0JJ1AYrj5k2Q7j1LsE36tSQjmY6aYiDy4Gjznf+nuUyndlk2XUFH+OHKN1irXKVCvAOyjFENZUqY=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "OMlNdFJoDdeI2eBpnJNWPcX8td59ShQEZXVs1d42xA+Iw1OQnWnL8nHfr+7/9xM+v+f0hlISpnS+XGygWQCIZQ5WJ1Ng3OxabWNdc8PXY9qOJYTC0nyYn1/pZJQbaIrK+iI5ci+l1IZIxHcB9b9bdsVJ2QlVEBKLrPAe6CUrGx29LgYSZ3mU2j4eBTFQhuAXscNiPpZhzni9Dp09c4S2Kw==",
+    "prot": "0",
+	"origin": "",
+    "user_agent": ""
+  },  
+	{
     "name": "NOCHE DE EVENTOS UFC",
     "ico": "https://liontv.com.ar/Img2/EVENTOS.png",
     "uri": "I3q7/hTu9CvrAf6c2QBPiJ6/F7YU4n3g0BtiomDQE7cM37dJkAb7rxRtVgPb9hfdXAfyiIP5+if0G4oFnaM4zqoPyyWZ2GQ0JJ1AYrj5k2Q7j1LsE36tSQjmY6aYiDy4Gjznf+nuUyndlk2XUFH+OHKN1irXKVCvAOyjFENZUqY=",
@@ -466,14 +496,24 @@
     "user_agent": null
   },
   {
-    "name": "DAZN  F1",
+    "name": "DAZN F1",
     "ico": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png",
     "uri": "OwXY2KGh0dI7m1StXppeHMyTRX2DQTEMWJ+xIBuattSAGve6zMWJw2bCVt6lbwyHqKwp4GD5/6+cybCJXVZ+y50RlrwajSXgN9gjm/MdoBtHDH8i2oaRieS/Nhnj+Mk/zl+WwLbjtpVFvpG+269SxnG9VKxrgv8CErgwnPD55sE=",
     "drm_scheme": "clearkey",
     "drm_license_url": "OMlNdFJoDdeI2eBpnJNWPcX8td59ShQEZXVs1d42xA+Iw1OQnWnL8nHfr+7/9xM+v+f0hlISpnS+XGygWQCIZeCpJ/kgOYfXvZlhZsyvr8jukZeZvF9EHnRfzrAlP3QLl2Xnt/483FBxaSft6drrDenyk9znX5p1Y/idKDpYU9S8KhHrVCSgTSzlfiPTd1KtkVvkHM1E2AdJ4iVHksF2Bw==",
-    "prot": null,
-    "origin": "https://web.app.flow.com.ar",
+    "prot": "0",
+	"origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+	"name": "CLARO SPORTS",
+    "ico": "https://ztv.com.ar/Img2/claro_sports.png",
+    "uri": "/DBdEvmWGMoF5UlcH4I0I+O9cJF590ExWeESrqPfUEx1BKz75qwRO2RwCYk8AXA1Oa0vSn5Cpn6I/+jkBibuAdurwleNqhfy1OdRNKXvMVvzq9ZXLgQPFsT5f0WoHuGb",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "+iJjqURewad4IJan98Hi4o7jO6LPzldPQIphWoBMdnqWUqEigYviLDeBv9OEJW1a",
+    "prot": "0",
+	"origin": "",
+    "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
   },
   {
     "name": "ARENA  2  PREMIUM",
@@ -838,23 +878,33 @@
     "mode": false,
     "lista": [
 	   {
-    "name": "ZOOMOO",
-    "ico": "https://liontv.com.ar/Img2/zoomoo.png",
-    "uri": "/DBdEvmWGMoF5UlcH4I0I+O9cJF590ExWeESrqPfUEwO6sS2ekdWmfwqwQF+V0FbG+72k2Pp3BuLxDRs3mzxN+B78FoFl0hkoDk/KjslotY=",
+		"name": "KIDOO",
+    "ico": "https://ztv.com.ar/Img2/kidoo.png",
+    "uri": "1qMiW7REPP2zhUy9x3d1Ik6wvLV492vmbPHrB3j9b0RM/S1+E+pM93EGv9YcYera5iA17MbW0+WbR5bVn5gcxhbtlXCrqTBLa4Ww6azf9nY=",
     "drm_scheme": "clearkey",
-    "drm_license_url": "u6dfGy9BDXPxjwZTvLeHcgJ1mdGidNOvmGFRR0YlGCWje4aZ9j5fSYPoITl8l7g3",
-    "prot": null,
-    "origin": null,
+    "drm_license_url": "+iJjqURewad4IJan98Hi4so7q3ObpWLMggIcnfFaqEGUaaWE1lUKuRGjDWBr4plZ",
+    "prot": "0",
+	 "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+	},
+	   {
+    "name": "ZOOMOO",
+    "ico": "https://ztv.com.ar/Img2/zoomoo.png",
+    "uri": "qhaBJi5t+dh1Srdc0ibQhq0Zz+rT31MO4gwUfj5hEhjkxNRVDFntAqxtpJJnujtgDHWBAK80R2Wfm5mW9ltvmhWQ662cQohjhW6R7wSohXw=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "+iJjqURewad4IJan98Hi4tbRe5Rubsi8OeG8Do+IwjufzlfqYrUZQPPiFMpOxlt5",
+	"prot": "0",
+    "referer": "https://player.sensa.com.ar/",
     "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
   },
   {
-    "name": "CANAL INFANTIL",
-    "ico": "https://liontv.com.ar/Img2/canal_infantil.png",
-    "uri": "/DBdEvmWGMoF5UlcH4I0I+O9cJF590ExWeESrqPfUExupkoAnBO5S4nHLZVx1Q6LrmzaSSgoGbSwOGtScNodYcNIxOieA31ZCrpqqNYW89Lz7QLsMATaXnQQNGINSION",
+    "name": "CANAL INFALTIL",
+    "ico": "https://ztv.com.ar/Img2/canal_infantil.png",
+    "uri": "qhaBJi5t+dh1Srdc0ibQhq0Zz+rT31MO4gwUfj5hEhhRd6JpBovZsKqE1ykP6XQcsYxJC3GsfpzCG119UmMMzN01A/Wnnk3eYJ2rgXXqDvUlKQJM5FIsNVXRbd4amDee",
     "drm_scheme": "clearkey",
-    "drm_license_url": "u6dfGy9BDXPxjwZTvLeHcgJ1mdGidNOvmGFRR0YlGCXlY4XluC62/+rQITmbK25HXqhmIIpwoMNbMhn39fkKRA==",
-    "prot": null,
-    "origin": null,
+    "drm_license_url": "+iJjqURewad4IJan98Hi4kS61/Y/x/h4+RWo6uBaA5WoNuYlS8rOsy5Q/JbWjkcIbsH/PFGQTQmtAtSqrbrd3Q==",
+	"prot": "0",
+    "referer": "https://player.sensa.com.ar/",
     "user_agent": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
   },
   {
@@ -1119,7 +1169,7 @@
     "name": "CINE",
     "mode": false,
     "lista": [
-        {
+       {
     "name": "CINE PREMIUM",
     "ico": "https://liontv.com.ar/Img2/cine_premium.png",
     "uri": "qhaBJi5t+dh1Srdc0ibQhq0Zz+rT31MO4gwUfj5hEhiO+aWniU6mAOXmY2fmBPlx1wwFDMmuyeXevqbaJ6VGexF6p4RIJIGm3H16ohBwEro=",
