@@ -878,6 +878,16 @@
     "mode": false,
     "lista": [
   {
+	  "name": "KIDOO",
+    "ico": "https://ztv.com.ar/Img2/kidoo.png",
+    "uri": "1qMiW7REPP2zhUy9x3d1Ik6wvLV492vmbPHrB3j9b0RM/S1+E+pM93EGv9YcYera5iA17MbW0+WbR5bVn5gcxhbtlXCrqTBLa4Ww6azf9nY=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "+iJjqURewad4IJan98Hi4so7q3ObpWLMggIcnfFaqEGUaaWE1lUKuRGjDWBr4plZ",
+    "prot": "0",
+	 "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+	    {
     "name": "PLIM PLIM TV",
     "ico": "https://liontv.com.ar/Img2/plimplim_tv.png",
     "uri": "p9p74gstbPOrKPxdqNwsBgydtNUSqjsXzQvi8M96QDq3KoISfNl+qFk7SNoTc3i30sxNlOA2iI4rHTo6KfEtk5YiG6rzdHFHF52lXMFXfCvqi5cejmQkC/kBNoo4dcrL",
